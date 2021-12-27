@@ -11,20 +11,43 @@
   <tr>
     <td><img src="figures/np_introduction_3382970_000000.svg" alt="Part 2" height="50px"/></a></td>
     <td>Introduction and Workflows</td>
-    <td>2022-02-24</td> 
+    <td>24 Feb</td> 
     <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture01-Introduction.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;&nbsp;
      <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-01/01-Introduction.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/></a>
    &nbsp;&nbsp;&nbsp; <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-01/01-Introduction.ipynb"><img src="figures/np_presentation.svg" height="50px"/></a></td>
-    <td>Part 1 <a href="https://youtu.be/fKthCxdd61o"><img src="figures/np_video.svg" alt="Part 1" height="30px"/></a>, Part 2 <a href="https://youtu.be/lslXWQA7W58"><img src="figures/np_video.svg" alt="Part 2" height="30px"/></a>, Exercise <a href="https://youtu.be/X0F1Lw5RZh0"><img src="figures/np_video.svg" alt="Exercise" height="30px"/></a></td>
+    <td><a href="https://youtu.be/fKthCxdd61o">1 <img src="figures/np_video.svg" alt="Part 1" height="30px"/></a>, <a href="https://youtu.be/lslXWQA7W58">2 <img src="figures/np_video.svg" alt="Part 2" height="30px"/></a>,<a href="https://youtu.be/X0F1Lw5RZh0">Ex <img src="figures/np_video.svg" alt="Exercise" height="30px"/></a></td>
+  </tr>
+  
+  <tr>
+    <td><img src="figures/np_data_3132352_000000.svg" alt="Part 2" height="50px"/></a></td>
+    <td>Ground Truth: Building and Augmenting Datasets</td>
+    <td>3 Mar</td>
+    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture03-Datasets.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;&nbsp  
+      <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-03/03-Datasets.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/></a> &nbsp;&nbsp;&nbsp
+  <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-03/03-Datasets.ipynb"><img src="figures/np_presentation.svg" height="50px"/></a>
+    </td>
+    <td><a href="https://youtu.be/SvhupWHEoOQ">Part 1 <img src="figures/np_video.svg" alt="Part 1" height="30px"/></a>, <a href="https://youtu.be/96QBFfNhMoI">Part 2 <img src="figures/np_video.svg" alt="Part 2" height="30px"/></a></td> 
+  </tr>
+  
+  <tr>
+    <td><img src="figures/np_photo-filters_2344219_000000.svg" alt="Part 2" height="50px"/></a></td>
+    <td>Image enhancement</td>
+    <td>10 Mar</td>
+    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture02-ImageEnhancement.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;&nbsp;<a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-02/02-ImageEnhancement.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/></a> &nbsp;&nbsp;&nbsp; <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-02/02-ImageEnhancement.ipynb"><img src="figures/np_presentation.svg" height="50px"/></a></td>
+    <td><a href="https://youtu.be/MnK9TVsPYmk">1 - <img src="figures/np_video.svg" alt="Part 1" height="30px"/></a>, <a href="https://youtu.be/QRIBA9rAV_0">2 - <img src="figures/np_video.svg" alt="Part 2" height="30px"/></a></td>
+  </tr>
+  <tr>
+  <td></td>
+  <td>Non-local means</td>
+    <td></td>
+  <td><a href="http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2021/main?filepath=Lectures/Lecture-02/02-NonLocalMeansStudy.ipynb">Interactive</a>/<a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-02/02-NonLocalMeansStudy.ipynb">Lecture Handout</a></td>
+
+  <td></td>
   </tr>
 </table>
 
 ## 24th February - Introduction and Workflows
 
-| Downloads| Videos |
-|:---:|:---|
-| <a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture01-Introduction.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;&nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/>](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-01/01-Introduction.ipynb) &nbsp;&nbsp;&nbsp; [<img src="figures/np_presentation.svg" height="50px"/>](https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-01/01-Introduction.ipynb)| Part 1 <a href="https://youtu.be/fKthCxdd61o"><img src="figures/np_video.svg" alt="Part 1" height="30px"/></a>, Part 2 <a href="https://youtu.be/lslXWQA7W58"><img src="figures/np_video.svg" alt="Part 2" height="30px"/></a>, Exercise <a href="https://youtu.be/X0F1Lw5RZh0"><img src="figures/np_video.svg" alt="Exercise" height="30px"/></a>|
- 
 #### Exercises
 
 - Getting started with python for image processing, [![Exercises](https://img.shields.io/badge/Notebook-Exercises-green.svg)](http://github.com/imaginglectures/Quantitative-Big-Imaging-2021/blob/main/Exercises/01-Images) [![Exercises](https://img.shields.io/badge/Interactive-Exercises-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2021/main?filepath=Exercises/01-Images/Assignment_01_Images.ipynb) 
@@ -33,10 +56,6 @@
 - [Introduction to Python and Jupyter for Data-Science](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ## 3rd March - Ground Truth: Building and Augmenting Datasets
-
-| Downloads| Videos |
-|:---:|:---|
-| <a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture03-Datasets.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/>](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-03/03-Datasets.ipynb) &nbsp;&nbsp;&nbsp; [<img src="figures/np_presentation.svg" height="50px"/>](https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-03/03-Datasets.ipynb)| <a href="https://youtu.be/SvhupWHEoOQ">Part 1 <img src="figures/np_video.svg" alt="Part 1" height="30px"/></a>, <a href="https://youtu.be/96QBFfNhMoI">Part 2 <img src="figures/np_video.svg" alt="Part 2" height="30px"/></a>|
 
 #### Exercises
 - [Data augmentation exercise](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/03-augmentation/03-AugmentationExercise.ipynb)[![slides](https://img.shields.io/badge/Interactive-Exercises-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Exercises/03-augmentation/03-AugmentationExercise.ipynb)
