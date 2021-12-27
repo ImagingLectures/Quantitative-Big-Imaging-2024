@@ -36,14 +36,24 @@
     <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture02-ImageEnhancement.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;&nbsp;<a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-02/02-ImageEnhancement.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/></a> &nbsp;&nbsp;&nbsp; <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-02/02-ImageEnhancement.ipynb"><img src="figures/np_presentation.svg" height="50px"/></a></td>
     <td><a href="https://youtu.be/MnK9TVsPYmk">1 - <img src="figures/np_video.svg" alt="Part 1" height="30px"/></a>, <a href="https://youtu.be/QRIBA9rAV_0">2 - <img src="figures/np_video.svg" alt="Part 2" height="30px"/></a></td>
   </tr>
+  
   <tr>
   <td></td>
   <td>Non-local means</td>
     <td></td>
   <td><a href="http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2021/main?filepath=Lectures/Lecture-02/02-NonLocalMeansStudy.ipynb">Interactive</a>/<a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-02/02-NonLocalMeansStudy.ipynb">Lecture Handout</a></td>
-
   <td></td>
   </tr>
+  
+  <tr>
+  <td><img src="figures/np_segmentation_4159870_000000.svg" height="50px"/></td>
+  <td>Basic Segmentation, Discrete Binary Structures</td>
+  <td>17 Mar</td>
+  <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture04-BasicSegmentation.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;&nbsp;<a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-04/04-BasicSegmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/></a> &nbsp;&nbsp; <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-04/04-BasicSegmenation.ipynb"><img src="figures/np_presentation.svg" height="50px"/></a> <br/>  <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-04/04-BasicSegmentation_Part2.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/></a> &nbsp;&nbsp; <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-04/04-BasicSegmenation_Part2.ipynb"><img src="figures/np_presentation.svg" height="50px"/></a></td>
+  <td><a href="https://youtu.be/9nzLKOiDK6M">1 - <img src="figures/np_video.svg" alt="Part 1" height="30px"/></a> 
+    <a href="https://youtu.be/6ax1_lvo8Gk">2 - <img src="figures/np_video.svg" alt="Part 2" height="30px"/></a></td>
+  </tr>
+  
 </table>
 
 ## 24th February - Introduction and Workflows
@@ -75,9 +85,7 @@
 
 ## 10th March - Ground Truth: Building and Augmenting Datasets
 
-| Downloads| Videos |
-|:---:|:---|
-| <a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture03-Datasets.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/>](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-03/03-Datasets.ipynb) &nbsp;&nbsp;&nbsp; [<img src="figures/np_presentation.svg" height="50px"/>](https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-03/03-Datasets.ipynb)| <a href="https://youtu.be/SvhupWHEoOQ">Part 1 <img src="figures/np_video.svg" alt="Part 1" height="30px"/></a>, <a href="https://youtu.be/96QBFfNhMoI">Part 2 <img src="figures/np_video.svg" alt="Part 2" height="30px"/></a>|
+
 
 #### Exercises
 - [Data augmentation exercise](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/03-augmentation/03-AugmentationExercise.ipynb)[![slides](https://img.shields.io/badge/Interactive-Exercises-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Exercises/03-augmentation/03-AugmentationExercise.ipynb)
