@@ -1,6 +1,6 @@
 # Weekly Plan [![Build Status](https://www.travis-ci.com/ImagingLectures/Quantitative-Big-Imaging-2021.svg?branch=main)](https://www.travis-ci.com/ImagingLectures/Quantitative-Big-Imaging-2021)
 
-## 25th February - Introduction and Workflows
+## 24th February - Introduction and Workflows
 
 | Downloads| Videos |
 |:---:|:---|
@@ -15,7 +15,7 @@
 
 
 
-## 4th March - Image Enhancement 
+## 3th March - Image Enhancement 
 
 | Downloads| Videos |
 |:---:|:---|
@@ -28,7 +28,7 @@
 - [Overview part 4](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Exercises/02-ImageEnhancement/Exercise4.ipynb)[![slides](https://img.shields.io/badge/Interactive-Exercises-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2021/main?filepath=Exercises/02-ImageEnhancement/Exercise4.ipynb)
 - [![slides](https://img.shields.io/badge/Launch-image_enhancement_tool-yellow.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2021/main?filepath=Exercises/02-ImageEnhancement/ImageEnhancementPlayground.ipynb)
 
-## 11th March - Ground Truth: Building and Augmenting Datasets
+## 10th March - Ground Truth: Building and Augmenting Datasets
 
 | Downloads| Videos |
 |:---:|:---|
@@ -38,7 +38,7 @@
 - [Data augmentation exercise](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/03-augmentation/03-AugmentationExercise.ipynb)[![slides](https://img.shields.io/badge/Interactive-Exercises-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Exercises/03-augmentation/03-AugmentationExercise.ipynb)
 
 
-## 18th March - Basic Segmentation, Discrete Binary Structures
+## 17th March - Basic Segmentation, Discrete Binary Structures
 
 | Downloads| Videos |
 |:---:|:---|
@@ -49,7 +49,7 @@
 - [Overview](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Exercises/04-Segmentation/04-Overview.md)
 
 
-## 25th March - Advanced Segmentation
+## 24th March - Advanced Segmentation
 
 | Downloads| Videos |
 |:---:|:---|
@@ -59,7 +59,7 @@
 
 - [Overview](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Exercises/05-AdvancedSegmentation/05-Overview.md)
 
-## 1st April - Analyzing Single Objects, Shape and Texture
+## 31st March - Analyzing Single Objects, Shape and Texture
 
 | Downloads| Videos |
 |:---:|:---|
@@ -69,9 +69,9 @@
 
 - [Overview](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Exercises/06-Shapes/06-Overview.md)
 
-## 8th April - Easter break
+## 7th April - Easter break
 
-## 15th April - Analyzing Complex Objects
+## 14th April - Analyzing Complex Objects
 
 | Downloads| Videos |
 |:---:|:---|
@@ -81,9 +81,10 @@
 - [![Exercises](https://img.shields.io/badge/Notebook-Exercises-green.svg)](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Exercises/07-ComplexObjects/07-Skeletons.ipynb)[![Interactive Exercises](https://img.shields.io/badge/Interactive-Exercises-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2021/main?filepath=Exercises/07-ComplexObjects/07-Skeletons.ipynb)
 - [Further exercises](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Exercises/07-ComplexObjects/07-Overview.md)
 
+## 21st April Easter holidays
 
 
-## 22nd April - Statistics, Prediction, and Reproducibility
+## 28nd April - Statistics, Prediction, and Reproducibility
 
 | Downloads| Videos |
 |:---:|:---|
@@ -95,11 +96,8 @@
 
 - Will come later in python once we know more about Pandas: [KNIME Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/08-Description.html)
 
----
----
-__Last year's material - not yet updated__
 
-## 29rd April - Dynamic Experiments
+## 5th May - Dynamic Experiments
 
 | Downloads| Videos |
 |:---:|:---|
@@ -109,7 +107,7 @@ __Last year's material - not yet updated__
 - [Overview](../Exercises/08-DynamicExperiments/08-Overview.md)
 
 --- 
-## 6th May - Imaging with multiple modalities 
+## 12th May - Imaging with multiple modalities 
 - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/10-BimodalExperiments.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/10-BimodalExperiments.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/10-BimodalExperiments.ipynb)
 
 #### Lecture videos
@@ -120,11 +118,11 @@ __Last year's material - not yet updated__
 - [Exercises on statistics and data frames](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/10-Statistics_DataFrames/10-Statistics_DataFrames.ipynb)
 
 ---
-## 13th May - Ascension (no lecture)
+## 26th May - Ascension (no lecture)
 
 ---
 
-## 20th May - Scaling Up / Big Data
+## 2nd June - Scaling Up / Big Data
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/11-ScalingUp.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Lectures/11-ScalingUp.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Lectures/11-ScalingUp.ipynb)
 
 #### Lecture videos
@@ -138,7 +136,7 @@ __Last year's material - not yet updated__
 
 ---
 
-### 3rd June - Project Presentations
+### 9th June - Project Presentations
 [Info before the presentations](../Projects/Presentations.md)
 #### Presentations
 | Presenter(s)  | Title.        | Recording OK |
