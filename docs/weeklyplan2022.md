@@ -80,7 +80,7 @@
   </tr>
   
   <tr>
-    <td></td>
+    <td><img src="figures/np_machine-learning_4474871_000000.svg" height="50px"/></td>
     <td>Analyzing Complex Objects</td>
     <td>7 Apr</td>
     <td></td>
@@ -96,7 +96,7 @@
   </tr>
   
   <tr>
-    <td></td>
+    <td><img src="figures/np_easter-bunny_2288018_000000.svg" height="50px"/></td>
     <td>Easter break (no lecture)</td>
     <td>21 Apr</td>
     <td></td>
@@ -104,7 +104,7 @@
   </tr>
   
   <tr>
-    <td></td>
+    <td><img src="figures/np_timing_4137191_000000.png" height="50px"/></td>
     <td>Dynamic Experiments</td>
     <td>28 Apr</td>
     <td></td>
@@ -112,7 +112,7 @@
   </tr>
   
   <tr>
-    <td></td>
+    <td><img src="figures/np_combine_156599_000000.svg" height="50px"/></td>
     <td>Imaging with multiple modalities</td>
     <td>5 May</td>
     <td></td>
@@ -120,7 +120,7 @@
   </tr>
   
   <tr>
-    <td></td>
+    <td><img src="figures/np_computing_4145847_000000.svg" height="50px"/></td>
     <td>Scaling Up / Big Data</td>
     <td>12 May</td>
     <td></td>
@@ -128,22 +128,28 @@
   </tr>
   
   <tr>
-    <td></td>
-    <td></td>
+    <td><img src="figures/np_classification-analysis_1630947_000000.svg" height="50px"/></td>
+    <td>Project</td>
     <td>19 May</td>
     <td></td>
     <td></td>
   </tr>
   
   <tr>
-    <td></td>
+    <td><img src="figures/np_shape_2328381_000000.svg" height="50px"/></td>
     <td>Ascension (no lecture)</td>
     <td>26 May</td>
     <td></td>
     <td></td>
   </tr>
   
-  
+  <tr>
+    <td><img src="figures/np_mystical-ascention_75128_000000.svg" height="50px"/></td>
+    <td>Project presentation</td>
+    <td>2 Jun</td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 ## 24th February - Introduction and Workflows
