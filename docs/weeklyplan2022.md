@@ -80,23 +80,26 @@
   </tr>
   
   <tr>
-    <td></td>
+    <td><img src="figures/np_machine-learning_4474871_000000.svg" height="50px"/></td>
     <td>Analyzing Complex Objects</td>
     <td>7 Apr</td>
-    <td></td>
-    <td><a href="https://youtu.be/0MOBX1acqH0">Part 1<img src="figures/np_video.svg" alt="Part 1" height="30px"/></a> <a href="https://youtu.be/wBW8zavr9kY">Part 2<img src="figures/np_video.svg" alt="Part 2" height="30px"/></a></td>
+    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture07-ComplexShape.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;&nbsp;<a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-07/07-ComplexObjects.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/></a> &nbsp;&nbsp; <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-07/07-ComplexObjects.ipynb"><img src="figures/np_presentation.svg" height="50px"/></a></td>
+    <td><a href="https://youtu.be/0MOBX1acqH0"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a> <a href="https://youtu.be/wBW8zavr9kY"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td>
   </tr>
   
   <tr>
     <td><img src="figures/np_statistics_4108630_000000.svg" height="50px"/></td>
     <td>Statistics, Prediction, and Reproducibility</td>
     <td>14 Apr</td>
-    <td></td>
-    <td></td>
+    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture08-Statistics.pdf">
+    <img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;&nbsp;
+    <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-08/08-Statistics.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/></a> &nbsp;&nbsp; 
+      <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-08/08-Statistics.ipynb"><img src="figures/np_presentation.svg" height="50px"/></a></td>
+    <td><a href="https://youtu.be/XqTNY0VMNHA"><img src="figures/YouTube.svg"" alt="Part 1" height="30px"/></a> <a href="https://youtu.be/UzofcfW1bR8"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td>
   </tr>
   
   <tr>
-    <td></td>
+    <td><img src="figures/np_easter-bunny_2288018_000000.svg" height="50px"/></td>
     <td>Easter break (no lecture)</td>
     <td>21 Apr</td>
     <td></td>
@@ -104,7 +107,7 @@
   </tr>
   
   <tr>
-    <td></td>
+    <td><img src="figures/np_timing_4137191_000000.png" height="50px"/></td>
     <td>Dynamic Experiments</td>
     <td>28 Apr</td>
     <td></td>
@@ -112,7 +115,7 @@
   </tr>
   
   <tr>
-    <td></td>
+    <td><img src="figures/np_combine_156599_000000.svg" height="50px"/></td>
     <td>Imaging with multiple modalities</td>
     <td>5 May</td>
     <td></td>
@@ -120,7 +123,7 @@
   </tr>
   
   <tr>
-    <td></td>
+    <td><img src="figures/np_computing_4145847_000000.svg" height="50px"/></td>
     <td>Scaling Up / Big Data</td>
     <td>12 May</td>
     <td></td>
@@ -128,22 +131,28 @@
   </tr>
   
   <tr>
-    <td></td>
-    <td></td>
+    <td><img src="figures/np_classification-analysis_1630947_000000.svg" height="50px"/></td>
+    <td>Project</td>
     <td>19 May</td>
     <td></td>
     <td></td>
   </tr>
   
   <tr>
-    <td></td>
+    <td><img src="figures/np_mystical-ascention_75128_000000.svg" height="50px"/></td>
     <td>Ascension (no lecture)</td>
     <td>26 May</td>
     <td></td>
     <td></td>
   </tr>
   
-  
+  <tr>
+    <td><img src="figures/np_financial-presentation_818023_000000.svg" height="50px"/></td>
+    <td>Project presentation</td>
+    <td>2 Jun</td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 ## 24th February - Introduction and Workflows
