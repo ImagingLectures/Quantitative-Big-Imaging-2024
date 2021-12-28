@@ -53,6 +53,96 @@
   <td><a href="https://youtu.be/9nzLKOiDK6M">1 - <img src="figures/np_video.svg" alt="Part 1" height="30px"/></a> 
     <a href="https://youtu.be/6ax1_lvo8Gk">2 - <img src="figures/np_video.svg" alt="Part 2" height="30px"/></a></td>
   </tr>
+<tr>
+  <td><img src="figures/np_machine-learning_1701180_000000.svg" height="50px"/></td>
+  <td>Advanced Segmentation</td>
+  <td>24 Mar</td>
+  <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture05-AdvancedSegmentation.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-05/05-AdvancedSegmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/></a>&nbsp;&nbsp;
+    <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-05/05-AdvancedSegmentation.ipynb"><img src="figures/np_presentation.svg" height="50px"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-05/05-SupervisedSegmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-05/05-SupervisedSegmentation.ipynb"><img src="figures/np_presentation.svg" height="50px"/></a>
+  </td>
+  <td><a href="https://youtu.be/0v7sA300Dbc">1 - <img src="figures/np_video.svg" alt="Part 1" height="30px"/></a> <a href="https://youtu.be/8tgReR_U3nI">Part 2<img src="figures/np_video.svg" alt="2 - " height="30px"/></a></td>
+  </tr>
+  
+  <tr>
+    <td><img src="figures/np_shape_2328381_000000.svg" height="50px"/></td>
+    <td>Analyzing Single Objects, Shape and Texture</td>
+    <td>31 Mar</td>
+    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture06-ShapeAnalysis.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;&nbsp;
+        <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-06/06-ShapeAnalysis.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-06/06-ShapeAnalysis.ipynb"><img src="figures/np_presentation.svg" height="50px"/></a>
+      <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-06/06-AdvancedShapeAndTexture.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/></a>
+      <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-06/06-AdvancedShapeAndTexture.ipynb"><img src="figures/np_presentation.svg" height="50px"/></a>
+    </td>
+    <td><a href="https://youtu.be/IxPojgnYMcQ">1 - <img src="figures/np_video.svg" alt="Part 1" height="30px"/></a> <a href="https://youtu.be/tHxVhCCYpxc">2 - <img src="figures/np_video.svg" alt="Part 2" height="30px"/></a></td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>Analyzing Complex Objects</td>
+    <td>7 Apr</td>
+    <td></td>
+    <td><a href="https://youtu.be/0MOBX1acqH0">Part 1<img src="figures/np_video.svg" alt="Part 1" height="30px"/></a> <a href="https://youtu.be/wBW8zavr9kY">Part 2<img src="figures/np_video.svg" alt="Part 2" height="30px"/></a></td>
+  </tr>
+  
+  <tr>
+    <td><img src="figures/np_statistics_4108630_000000.svg" height="50px"/></td>
+    <td>Statistics, Prediction, and Reproducibility</td>
+    <td>14 Apr</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>Easter break (no lecture)</td>
+    <td>21 Apr</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>Dynamic Experiments</td>
+    <td>28 Apr</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>Imaging with multiple modalities</td>
+    <td>5 May</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>Scaling Up / Big Data</td>
+    <td>12 May</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td></td>
+    <td>19 May</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>Ascension (no lecture)</td>
+    <td>26 May</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
   
 </table>
 
@@ -104,9 +194,7 @@
 
 ## 24th March - Advanced Segmentation
 
-| Downloads| Videos |
-|:---:|:---|
-| <a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture05-AdvancedSegmentation.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/>](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-05/05-AdvancedSegmentation.ipynb) &nbsp;&nbsp; [<img src="figures/np_presentation.svg" height="50px"/>](https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-05/05-AdvancedSegmentation.ipynb) &nbsp;&nbsp;&nbsp;  [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/>](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-05/05-SupervisedSegmentation.ipynb) &nbsp;&nbsp; [<img src="figures/np_presentation.svg" height="50px"/>](https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-05/05-SupervisedSegmentation.ipynb)| <a href="https://youtu.be/0v7sA300Dbc">Part 1<img src="figures/np_video.svg" alt="Part 1" height="30px"/></a> <a href="https://youtu.be/8tgReR_U3nI">Part 2<img src="figures/np_video.svg" alt="Part 2" height="30px"/></a>|
+
 
 #### Exercises
 
