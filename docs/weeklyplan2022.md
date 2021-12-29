@@ -51,8 +51,11 @@
   <td><img src="figures/np_segmentation_4159870_000000.svg" height="50px"/></td>
   <td>Basic Segmentation, Discrete Binary Structures</td>
   <td>17 Mar</td>
-  <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture04-BasicSegmentation.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;
-    <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-04/04-BasicSegmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/></a> &nbsp;&nbsp; <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-04/04-BasicSegmenation.ipynb"><img src="figures/np_presentation.svg" height="50px"/></a> <br/>  <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-04/04-BasicSegmentation_Part2.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/></a> &nbsp;&nbsp; <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-04/04-BasicSegmenation_Part2.ipynb"><img src="figures/np_presentation.svg" height="50px"/></a></td>
+  <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture04-BasicSegmentation.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
+    <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-04/04-BasicSegmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/></a>&nbsp;&nbsp;
+    <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-04/04-BasicSegmenation.ipynb"><img src="figures/np_presentation.svg" height="50px"/></a>
+    <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-04/04-BasicSegmentation_Part2.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/></a> &nbsp;&nbsp; 
+    <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-04/04-BasicSegmenation_Part2.ipynb"><img src="figures/np_presentation.svg" height="50px"/></a></td>
   <td><a href="https://youtu.be/9nzLKOiDK6M"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a> 
     <a href="https://youtu.be/6ax1_lvo8Gk"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td>
   </tr>
