@@ -9,7 +9,7 @@
     <th>Lecture video</th>
   </tr>
   <tr>
-    <td><img src="figures/np_introduction_3382970_000000.svg" alt="Part 2" height="50px"/></a></td>
+    <td><img src="figures/np_introduction_3382970_000000.svg" alt="Part 2" height="50px"/></td>
     <td>Introduction and Workflows</td>
     <td>24 Feb</td> 
     <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture01-Introduction.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;
@@ -18,7 +18,7 @@
     <td><a href="https://youtu.be/fKthCxdd61o"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a><a href="https://youtu.be/lslXWQA7W58"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a><a href="https://youtu.be/X0F1Lw5RZh0"><img src="figures/YouTube.svg" alt="Exercise" height="30px"/></a></td>
   </tr> 
   <tr>
-    <td><img src="figures/np_data_3132352_000000.svg" alt="Part 2" height="50px"/></a></td>
+    <td><img src="figures/np_data_3132352_000000.svg" alt="Part 2" height="50px"/></td>
     <td>Ground Truth: Building and Augmenting Datasets</td>
     <td>3 Mar</td>
     <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture03-Datasets.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;
@@ -29,7 +29,7 @@
   </tr>
   
   <tr>
-    <td><img src="figures/np_photo-filters_2344219_000000.svg" alt="Part 2" height="50px"/></a></td>
+    <td><img src="figures/np_photo-filters_2344219_000000.svg" alt="Part 2" height="50px"/></td>
     <td>Image enhancement</td>
     <td>10 Mar</td>
     <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture02-ImageEnhancement.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;
