@@ -59,6 +59,7 @@
   <td><a href="https://youtu.be/9nzLKOiDK6M"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a> 
     <a href="https://youtu.be/6ax1_lvo8Gk"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td>
   </tr>
+  
 <tr>
   <td><img src="figures/np_machine-learning_1701180_000000.svg" height="50px"/></td>
   <td>Advanced Segmentation</td>
@@ -103,7 +104,8 @@
     <img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;
     <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-08/08-Statistics.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/></a> &nbsp;&nbsp; 
       <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-08/08-Statistics.ipynb"><img src="figures/np_presentation.svg" height="50px"/></a></td>
-    <td><a href="https://youtu.be/XqTNY0VMNHA"><img src="figures/YouTube.svg"" alt="Part 1" height="30px"/></a> <a href="https://youtu.be/UzofcfW1bR8"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td>
+    <td><a href="https://youtu.be/XqTNY0VMNHA"><img src="figures/YouTube.svg"" alt="Part 1" height="30px"/></a> 
+      <a href="https://youtu.be/UzofcfW1bR8"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td>
   </tr>
   
   <tr>
@@ -118,31 +120,44 @@
     <td><img src="figures/np_timing_4137191_000000.png" height="50px"/></td>
     <td>Dynamic Experiments</td>
     <td>28 Apr</td>
-    <td></td>
-    <td></td>
+    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture09-DynamicExperiments.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;
+      <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-09/09-DynamicExperiments.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/></a>&nbsp;&nbsp;
+      <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-09/09-DynamicExperiments.ipynb"><img src="figures/np_presentation.svg" height="50px"/></a></td>
+    <td><a href="https://youtu.be/_aCiYQ7ih8M"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a> 
+      <a href="https://youtu.be/h43lRG3ENYE"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td>
   </tr>
   
   <tr>
     <td><img src="figures/np_combine_156599_000000.svg" height="50px"/></td>
     <td>Imaging with multiple modalities</td>
     <td>5 May</td>
-    <td></td>
-    <td></td>
+    <td>
+      <a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture10-BimodalExperiments.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;
+      <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-10/10-BimodalExperiments.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/></a>&nbsp;&nbsp;
+      <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-10/10-BimodalExperiments.ipynb"><img src="figures/np_presentation.svg" height="50px"/></a>
+      </td>
+    <td><a href="https://youtu.be/bZydtZHzzFU"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a> 
+      <a href="https://youtu.be/7P43tByjl9w"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td>
   </tr>
   
   <tr>
     <td><img src="figures/np_computing_4145847_000000.svg" height="50px"/></td>
     <td>Scaling Up / Big Data</td>
     <td>12 May</td>
-    <td></td>
-    <td></td>
+    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture11-ScalingUp.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;
+      <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-11/11-ScalingUp.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/></a>&nbsp;&nbsp;
+      <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-11/11-ScalingUp.ipynb"><img src="figures/np_presentation.svg" height="50px"/></a></td>
+    <td>
+      <a href="https://youtu.be/dhjl7xB-5tw"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a> 
+      <a href="https://youtu.be/UqbqaPMQCaE"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a>
+    </td>
   </tr>
   
   <tr>
     <td><img src="figures/np_classification-analysis_1630947_000000.svg" height="50px"/></td>
     <td>Project</td>
     <td>19 May</td>
-    <td></td>
+    <td>Project consultation</td>
     <td></td>
   </tr>
   
@@ -158,7 +173,7 @@
     <td><img src="figures/np_financial-presentation_818023_000000.svg" height="50px"/></td>
     <td>Project presentation</td>
     <td>2 Jun</td>
-    <td></td>
+    <td>Program T.B.D.</td>
     <td></td>
   </tr>
 </table>
