@@ -1,11 +1,11 @@
-[![Build Status](https://travis-ci.com/ImagingLectures/Quantitative-Big-Imaging-2021.svg?token=yKDxiqCwAHCp8qzqpcFZ&branch=main)](https://travis-ci.com/ImagingLectures/Quantitative-Big-Imaging-2021)
+[![Build Status](https://travis-ci.com/ImagingLectures/Quantitative-Big-Imaging-2022.svg?token=yKDxiqCwAHCp8qzqpcFZ&branch=main)](https://travis-ci.com/ImagingLectures/Quantitative-Big-Imaging-2022)
 
-# Quantitative Big Imaging Course 2021 
+# Quantitative Big Imaging Course 2022
 
-Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2021 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136177&semkez=2021S&lang=en): Quantitative Big Imaging.
+Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2022 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136177&semkez=2022S&lang=en): Quantitative Big Imaging.
 
 ## Detailed information
-- [Weekly lecture plan](weeklyplan.md)
+- [Weekly lecture plan](weeklyplan2022.md)
 - [Exercises](exercises.md)
 - [Communication and Feedback](communication.md)
 - [Software dependencise](dependencies.md)
@@ -13,7 +13,7 @@ Here are the lectures, exercises, and additional course materials corresponding 
 
 ---
 
-Please note the Lecture Slides and PDF do not contain active source code, this is only available in the handout file. The lectures will be recorded and placed on YouTube on the [QBI 2020 Playlist](https://www.youtube.com/playlist?list=PLcDfeQH_rVdbu7VooFvWA6F9gctY-UUwN). The lectures are meant to be followed in chronological order and each lecture has a corresponding hands-on exercise.
+Please note the Lecture Slides and PDF do not contain active source code, this is only available in the handout file. The lectures will be recorded and uploaded on the YouTube [QBI 2022 Playlist](https://youtube.com/playlist?list=PLcDfeQH_rVdZmuTymfKpuJ3-Hy4kjXDZZ). The lectures are meant to be followed in chronological order and each lecture has a corresponding hands-on exercise.
 
 ## Learning Objectives
 
@@ -23,6 +23,8 @@ Please note the Lecture Slides and PDF do not contain active source code, this i
 1. Ability to create and evaluate quantitative metrics to compare the success of different approaches/processes/workflows
 1. Appreciation of automation and which steps it is most appropriate for
 1. The relationship between automation and reproducibility for analysis
+
+<details>
 
 ### Image Enhancement
 1. Awareness of the function enhancement serves and the most commonly used methods
@@ -66,3 +68,4 @@ The projects are optional, but highly recommended to do as they give better insi
 - [Overview](projectoverview.md) of possible projects
 - [Here]() you signup for your project with team members and a short title and description
 
+</details>
