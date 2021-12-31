@@ -1,6 +1,6 @@
 # Weekly Plan [![Build Status](https://www.travis-ci.com/ImagingLectures/Quantitative-Big-Imaging-2021.svg?branch=main)](https://www.travis-ci.com/ImagingLectures/Quantitative-Big-Imaging-2021)
 
-<table style="width: 1100px">
+<table style="width: 1200px">
   <tr>
    <th></th>
     <th>Title</th> 
