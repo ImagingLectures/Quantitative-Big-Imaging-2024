@@ -10,13 +10,13 @@
   <tr>
     <td>1</td>
     <td><img src="figures/np_introduction_3382970_000000.svg" alt="Part 2" height="40px"/></td>
-    <td>[Introduction and Workflows](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/01-Images/01-Description.md)</td>
+    <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/01-Images/01-Description.md">Introduction and Workflows</a></td>
     <td>24 Feb</td>
   </tr> 
   <tr>
     <td>2</td>
     <td><img src="figures/np_data_3132352_000000.svg" alt="Part 2" height="40px"/></td>
-    <td>[Ground Truth: Building and Augmenting Datasets](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/02-Augmentation/02-Description.md)</td>
+    <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/02-Augmentation/02-Description.md">Ground Truth: Building and Augmenting Datasets</a></td>
     <td>3 Mar</td>
   </tr>
   
