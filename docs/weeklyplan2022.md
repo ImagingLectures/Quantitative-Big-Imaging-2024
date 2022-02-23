@@ -1,6 +1,6 @@
 # Weekly Plan [![Build Status](https://www.travis-ci.com/ImagingLectures/Quantitative-Big-Imaging-2021.svg?branch=main)](https://www.travis-ci.com/ImagingLectures/Quantitative-Big-Imaging-2021)
 
-<table style="width: 1200px;">
+<table style="width: 1400px;">
   <tr>
     <th>#</th>
    <th></th>
@@ -8,6 +8,7 @@
     <th>Date</th>
     <th>Lecture material</th>
     <th>Lecture video</th>
+    <th>Exercises</th>
   </tr>
   <tr>
     <td>1</td>
@@ -18,6 +19,7 @@
      <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-01/01-Introduction.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp; 
       <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-01/01-Introduction.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a></td>
     <td><a href="https://youtu.be/fKthCxdd61o"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a><a href="https://youtu.be/lslXWQA7W58"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a><a href="https://youtu.be/X0F1Lw5RZh0"><img src="figures/YouTube.svg" alt="Exercise" height="30px"/></a></td>
+    <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/tree/main/Exercises/01-Images"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a></td>
   </tr> 
   <tr>
     <td>2</td>
@@ -29,6 +31,7 @@
   <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-03/03-Datasets.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>
     </td>
     <td><a href="https://youtu.be/SvhupWHEoOQ"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a><a href="https://youtu.be/96QBFfNhMoI"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td> 
+    <td></td>
   </tr>
   
   <tr>
@@ -40,6 +43,7 @@
   <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-02/02-ImageEnhancement.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp; 
   <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-02/02-ImageEnhancement.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a></td>
     <td><a href="https://youtu.be/MnK9TVsPYmk"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a><a href="https://youtu.be/QRIBA9rAV_0"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td>
+    <td></td>
   </tr>  
   <tr>
     <td></td>
@@ -47,6 +51,7 @@
     <td>Non-local means</td>
     <td></td>
     <td><a href="http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2021/main?filepath=Lectures/Lecture-02/02-NonLocalMeansStudy.ipynb">Interactive</a>/<a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-02/02-NonLocalMeansStudy.ipynb">Lecture Handout</a></td>
+    <td></td>
     <td></td>
   </tr> 
   <tr>
@@ -61,6 +66,7 @@
     <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-04/04-BasicSegmenation_Part2.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a></td>
   <td><a href="https://youtu.be/9nzLKOiDK6M"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a> 
     <a href="https://youtu.be/6ax1_lvo8Gk"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td>
+    <td></td>
   </tr> 
 <tr>
   <td>5</td>
@@ -74,6 +80,7 @@
     <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-05/05-SupervisedSegmentation.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>
   </td>
   <td><a href="https://youtu.be/0v7sA300Dbc"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a> <a href="https://youtu.be/8tgReR_U3nI"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td>
+  <td></td>
   </tr>  
   
   <tr>
@@ -88,6 +95,7 @@
       <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-06/06-AdvancedShapeAndTexture.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>
     </td>
     <td><a href="https://youtu.be/IxPojgnYMcQ"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a> <a href="https://youtu.be/tHxVhCCYpxc"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td>
+    <td></td>
   </tr> 
   
   <tr>
@@ -99,6 +107,7 @@
       <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-07/07-ComplexObjects.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp; 
       <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-07/07-ComplexObjects.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a></td>
     <td><a href="https://youtu.be/0MOBX1acqH0"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a> <a href="https://youtu.be/wBW8zavr9kY"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td>
+    <td></td>
   </tr>
   
   <tr>
@@ -115,6 +124,7 @@
       <a href="https://youtu.be/XqTNY0VMNHA"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a> 
       <a href="https://youtu.be/UzofcfW1bR8"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a>
     </td>
+    <td></td>
   </tr>
   
   <tr>
@@ -122,6 +132,7 @@
     <td><img src="figures/np_easter-bunny_2288018_000000.svg" height="40px"/></td>
     <td>Easter break (no lecture)</td>
     <td>21 Apr</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -137,6 +148,7 @@
     <td>
       <a href="https://youtu.be/_aCiYQ7ih8M"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a> 
       <a href="https://youtu.be/h43lRG3ENYE"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td>
+    <td></td>
   </tr>
   
   <tr>
@@ -151,6 +163,7 @@
       </td>
     <td><a href="https://youtu.be/bZydtZHzzFU"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a> 
       <a href="https://youtu.be/7P43tByjl9w"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td>
+    <td></td>
   </tr>
   
   <tr>
@@ -165,6 +178,7 @@
       <a href="https://youtu.be/dhjl7xB-5tw"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a> 
       <a href="https://youtu.be/UqbqaPMQCaE"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a>
     </td>
+    <td></td>
   </tr>
   
   <tr>
@@ -174,6 +188,7 @@
     <td>19 May</td>
     <td>Project consultation</td>
     <td></td>
+    <td></td>
   </tr>
   
   <tr>
@@ -181,6 +196,7 @@
     <td><img src="figures/np_mystical-ascention_75128_000000.svg" height="40px"/></td>
     <td>Ascension (no lecture)</td>
     <td>26 May</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -192,120 +208,7 @@
     <td>2 Jun</td>
     <td>Program T.B.D.</td>
     <td></td>
+    <td></td>
   </tr>
 </table>
-
-## 24th February - Introduction and Workflows
-
-#### Exercises
-
-- Getting started with python for image processing, [![Exercises](https://img.shields.io/badge/Notebook-Exercises-green.svg)](http://github.com/imaginglectures/Quantitative-Big-Imaging-2021/blob/main/Exercises/01-Images) [![Exercises](https://img.shields.io/badge/Interactive-Exercises-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2021/main?filepath=Exercises/01-Images/Assignment_01_Images.ipynb) 
-
-#### Supporting material for the exercises
-- [Introduction to Python and Jupyter for Data-Science](https://github.com/jakevdp/PythonDataScienceHandbook)
-
-## 3rd March - Ground Truth: Building and Augmenting Datasets
-
-#### Exercises
-- [Data augmentation exercise](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/03-augmentation/03-AugmentationExercise.ipynb)[![slides](https://img.shields.io/badge/Interactive-Exercises-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Exercises/03-augmentation/03-AugmentationExercise.ipynb)
-
-## 10th March - Image Enhancement 
-
-
-#### Exercises
-- [Overview part 1-3](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Exercises/02-ImageEnhancement/Exercises1-3.ipynb)[![slides](https://img.shields.io/badge/Interactive-Exercises-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/main?filepath=Exercises/02-ImageEnhancement/Exercises1-3.ipynb)
-- [Overview part 4](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Exercises/02-ImageEnhancement/Exercise4.ipynb)[![slides](https://img.shields.io/badge/Interactive-Exercises-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2021/main?filepath=Exercises/02-ImageEnhancement/Exercise4.ipynb)
-- [![slides](https://img.shields.io/badge/Launch-image_enhancement_tool-yellow.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2021/main?filepath=Exercises/02-ImageEnhancement/ImageEnhancementPlayground.ipynb)
-
-## 10th March - Ground Truth: Building and Augmenting Datasets
-
-
-
-#### Exercises
-- [Data augmentation exercise](https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/03-augmentation/03-AugmentationExercise.ipynb)[![slides](https://img.shields.io/badge/Interactive-Exercises-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Exercises/03-augmentation/03-AugmentationExercise.ipynb)
-
-
-## 17th March - Basic Segmentation, Discrete Binary Structures
-
-
-#### Exercises
-
-- [Overview](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Exercises/04-Segmentation/04-Overview.md)
-
-
-## 24th March - Advanced Segmentation
-
-
-
-#### Exercises
-
-- [Overview](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Exercises/05-AdvancedSegmentation/05-Overview.md)
-
-## 31st March - Analyzing Single Objects, Shape and Texture
-
-
-#### Exercises
-
-- [Overview](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Exercises/06-Shapes/06-Overview.md)
-
-## 7th April - Easter break
-
-## 14th April - Analyzing Complex Objects
-
-
-#### Exercises
-- [![Exercises](https://img.shields.io/badge/Notebook-Exercises-green.svg)](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Exercises/07-ComplexObjects/07-Skeletons.ipynb)[![Interactive Exercises](https://img.shields.io/badge/Interactive-Exercises-green.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2021/main?filepath=Exercises/07-ComplexObjects/07-Skeletons.ipynb)
-- [Further exercises](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Exercises/07-ComplexObjects/07-Overview.md)
-
-## 21st April Easter holidays
-
-
-## 28nd April - Statistics, Prediction, and Reproducibility
-
-
-#### Exercises
-- C. Elegans Dataset on Kaggle [R Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/qbi-statistics-and-reproducibility-in-r/) or [Python Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
-<!-- Lung Segmentation [https://www.kaggle.com/kmader/dsb-lung-segmentation-algorithm/notebook](Rule-based Image Processing) and [Simple Neural Network](https://www.kaggle.com/kmader/simple-nn-with-keras) -->
-
-- Will come later in python once we know more about Pandas: [KNIME Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/08-Description.html)
-
-
-## 5th May - Dynamic Experiments
-
-
-#### Exercises
-- [Overview](../Exercises/08-DynamicExperiments/08-Overview.md)
-
---- 
-## 12th May - Imaging with multiple modalities 
-
-
-#### Exercises
-- [Exercises on statistics and data frames](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/10-Statistics_DataFrames/10-Statistics_DataFrames.ipynb)
-
----
-## 26th May - Ascension (no lecture)
-
----
-
-## 2nd June - Scaling Up / Big Data
-
-
-#### Lecture videos
- - [Part 1: Parallel and distributed computing](https://youtu.be/HVAAtE7o8eI)
- - [Part 2: Databases and DAGs](https://youtu.be/F_zZ1Jeyh0I)
- 
-
-#### Exercises
-- [Kaggle DAG Notebook for Filtering with Tensorflow](https://www.kaggle.com/kmader/simple-dags-in-tensorflow), this a walk-through exercise. You can play with the number of iterations in the last part to see if there is data transfer bottle neck for GPU compared to CPU.
-- [Block-based 3D Image Analysis in Dask](https://www.kaggle.com/kmader/3d-image-analysis-using-dask)
-
----
-
-### 9th June - Project Presentations
-[Info before the presentations](../Projects/Presentations.md)
-
-<a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/html/Lecture01/index.html"><img src="figures/np_presentation.svg" height="40px"/></a>
- <a href="http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2021/blob/master/Lectures/Lecture-01/01-Introduction.ipynb"><img src="figures/Jupyter_logo.svg" height="40px"/></a>
-
 
