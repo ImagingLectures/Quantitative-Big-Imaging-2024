@@ -1,9 +1,10 @@
-name: qbi2021
+name: qbi2022
 channels:
   - defaults
   - anaconda
   - vmtk
   - simpleitk
+  - conda-forge
 dependencies:
   - conda
   - python=3.7
@@ -42,6 +43,4 @@ dependencies:
   - param
   - pyct
   - pyct-core
-  - standard  
-  - dask-ndmorph
-  - prefix: /Users/kaestner/opt/anaconda3
+  - pyqtgraph

@@ -1,5 +1,6 @@
 # Book settings
-title: Quantitative Big Imaging - Building and Augmenting Datasets
+title: Quantitative Big Imaging - Image enhancement
+only_build_toc_files: true
 
 author: Anders Kaestner
 #logo: 'images/logo.png'
@@ -10,4 +11,4 @@ execute:
 
 latex:
   latex_documents:
-     targetname: QBI-Lecture03-Datasets.tex
+     targetname: QBI-Lecture02-ImageEnhancement.tex
