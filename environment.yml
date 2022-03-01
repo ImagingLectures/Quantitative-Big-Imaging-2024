@@ -11,9 +11,6 @@ dependencies:
   - conda-env
   - conda-build
   - conda-verify
-  - anaconda
-  - anaconda-navigator
-  - navigator-updater
   - numpy=1.21
   - pandas=1.4
   - pillow=9.0
