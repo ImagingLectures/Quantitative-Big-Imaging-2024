@@ -7,40 +7,54 @@ channels:
   - conda-forge
 dependencies:
   - conda
-  - python=3.7
+  - python=3.9
   - conda-env
   - conda-build
   - conda-verify
   - anaconda
   - anaconda-navigator
   - navigator-updater
-  - _ipyw_jlab_nb_ext_conf
-  - numpy
-  - matplotlib
-  - bokeh
-  - rise
-  - pandas
-  - graphviz
-  - python-graphviz
-  - pydot
-  - plotly
-  - ffmpeg
-  - tensorflow==1.15
-  - keras
-  - itk
-  - ffmpeg
-  - tifffile
-  - imagecodecs
-  - scipy
-  - scikit-image
-  - dask-image
+  - numpy=1.21
+  - pandas=1.4
+  - pillow=9.0
+  - matplotlib=3.5
+  - plotly=5.6
+  - pydot=1.4
   - pip
-  - simpleitk
-  - colorcet
-  - ipympl
-  - itk
-  - itkwidgets
-  - param
-  - pyct
+  - pyqt=5
+  - scikit-image=0.18
+  - scikit-learn=1.0
+  - scipy=1.7
+  - seaborn=0.11
+  - sqlite=3.37
+  - tensorflow=2
+  - tifffile
+  - tk
+  - tqdm
+  - keras
+  - jupyter
+  - jupyter_contrib_nbextensions
+  - jupyter_nbextensions_configurator
+  - graphviz
+  - python-graphviz 
+  - cfitsio
+  - bokeh
+  - astropy=5.0
+  - rise
+  - pywavelets
+  - param 
+  - pyqtgraph 
+  - pyct 
   - pyct-core
-  - pyqtgraph
+  - ffmpeg
+  - dask-image
+  - plotnine
+  - webcolors
+  - ipyvolume
+  - pip :
+    - simpleitk
+    - itkwidgets
+
+
+
+  
