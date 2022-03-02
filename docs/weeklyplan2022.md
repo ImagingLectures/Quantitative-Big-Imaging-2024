@@ -27,8 +27,8 @@
     <td>Ground Truth: Building and Augmenting Datasets</td>
     <td>3 Mar</td>
     <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture03-Datasets.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
-      <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-03/03-Datasets.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
-  <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-03/03-Datasets.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>
+      <a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-02/02-Datasets.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
+  <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-02/02-Datasets.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>
     </td>
     <td><a href="https://youtu.be/SvhupWHEoOQ"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a><a href="https://youtu.be/96QBFfNhMoI"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td> 
     <td></td>
