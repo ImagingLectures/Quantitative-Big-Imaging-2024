@@ -16,7 +16,7 @@
   <tr>
     <td>2</td>
     <td><img src="figures/np_data_3132352_000000.svg" alt="Part 2" height="40px"/></td>
-    <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/02-Augmentation/02-Description.md">Ground Truth: Building and Augmenting Datasets</a></td>
+    <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/tree/main/Exercises/02-Augmentation">Ground Truth: Building and Augmenting Datasets</a></td>
     <td>3 Mar</td>
   </tr>
   
