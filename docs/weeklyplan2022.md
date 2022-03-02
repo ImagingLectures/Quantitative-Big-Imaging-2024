@@ -31,7 +31,7 @@
   <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-02/02-Datasets.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>
     </td>
     <td><a href="https://youtu.be/SvhupWHEoOQ"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a><a href="https://youtu.be/96QBFfNhMoI"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td> 
-    <td></td>
+        <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/tree/main/Exercises/02-Augmentation"><img src="figures/np_work-from-home_3742622_000000.svg" height="40px"/></a></td>
   </tr>
   
   <tr>
