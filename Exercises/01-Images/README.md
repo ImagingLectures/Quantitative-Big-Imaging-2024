@@ -12,6 +12,8 @@
   -  Load and save images
   -  Introducing useful programming constructs
 
+[Solution to exercise 1](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/01-Images/Assignment_01_Images-Solution.ipynb)
+
 ### Supporting material for the exercises
 [Introduction to Python and Jupyter for Data-Science](https://github.com/jakevdp/PythonDataScienceHandbook)
 
