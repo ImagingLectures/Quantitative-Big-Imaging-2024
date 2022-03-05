@@ -18,7 +18,7 @@
     <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/QBI-Lecture01-Introduction.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;
      <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-01/01-Introduction.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp; 
       <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-01/01-Introduction.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a></td>
-    <td><a href="https://youtu.be/fKthCxdd61o"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a><a href="https://youtu.be/lslXWQA7W58"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a><a href="https://youtu.be/X0F1Lw5RZh0"><img src="figures/YouTube.svg" alt="Exercise" height="30px"/></a></td>
+    <td><a href="https://youtu.be/pXcPetU9sK8"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a><a href="https://youtu.be/lslXWQA7W58"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td>
     <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/tree/main/Exercises/01-Images"><img src="figures/np_work-from-home_3742622_000000.svg" height="40px"/></a></td>
   </tr> 
   <tr>
@@ -28,9 +28,9 @@
     <td>3 Mar</td>
     <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture03-Datasets.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
       <a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-02/02-Datasets.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
-  <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-02/02-Datasets.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>
+  <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-02/02-Datasets.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>
     </td>
-    <td><a href="https://youtu.be/SvhupWHEoOQ"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a><a href="https://youtu.be/96QBFfNhMoI"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td> 
+    <td><a href="https://youtu.be/zJ6sQguBAOs"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a><a href="https://youtu.be/QmITqj4OYMU"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td> 
         <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/tree/main/Exercises/02-Augmentation"><img src="figures/np_work-from-home_3742622_000000.svg" height="40px"/></a></td>
   </tr>
   
