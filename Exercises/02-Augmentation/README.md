@@ -10,6 +10,8 @@
 - How to augment images
 - Working with a baseline algorithm
 
+[Solution to exercise 2](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/02-Augmentation/02-AugmentationExercise-Solution.ipynb)
+
 ## Link
 [Link to exercise folder on github.](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/tree/main/Exercises/02-Augmentation)
 
