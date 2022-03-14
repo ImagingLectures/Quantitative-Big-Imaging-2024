@@ -39,10 +39,10 @@
     <td><img src="figures/np_photo-filters_2344219_000000.svg" alt="Part 2" height="40px"/></td>
     <td>Image enhancement</td>
     <td>10 Mar</td>
-    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture02-ImageEnhancement.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
-  <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-02/02-ImageEnhancement.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp; 
-  <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-02/02-ImageEnhancement.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a></td>
-    <td><a href="https://youtu.be/MnK9TVsPYmk"><img src="figures/YouTube_OldRecording.svg" alt="Part 1" height="30px"/></a><a href="https://youtu.be/QRIBA9rAV_0"><img src="figures/YouTube_OldRecording.svg" alt="Part 2" height="30px"/></a></td>
+    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/QBI-Lecture03-ImageEnhancement.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
+  <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-03/03-ImageEnhancement.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp; 
+  <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-03/03-ImageEnhancement.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a></td>
+    <td><a href="https://youtu.be/G2C8uScSNBQ"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a><a href="https://youtu.be/8FUHPLs-xYk"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td>
     <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/03-ImageEnhancement"><img src="figures/np_work-from-home_3742622_000000.svg" height="40px"/></a></td>
   </tr>  
   <tr>
@@ -50,7 +50,7 @@
     <td></td>
     <td>Non-local means</td>
     <td></td>
-    <td><a href="http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2021/main?filepath=Lectures/Lecture-02/02-NonLocalMeansStudy.ipynb">Interactive</a>/<a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-02/02-NonLocalMeansStudy.ipynb">Lecture Handout</a></td>
+    <td><a href="http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2022/main?filepath=Lectures/Lecture-03/03-NonLocalMeansStudy.ipynb">Interactive</a>/<a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-03/03-NonLocalMeansStudy.ipynb">Lecture Handout</a></td>
     <td></td>
     <td></td>
   </tr> 
