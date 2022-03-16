@@ -1,5 +1,11 @@
+![](../../docs/figures/np_segmentation_4159870_000000.svg)
+# Exercises for lecture 4 - Basic segmentation
 
-# Exercises for lecture 4
+## Preparation
+- Sync your QBI folder with Github (```git pull```)
+- The images we use for this exercise are located in the ```./data``` folder.
+- Start Jupyter
+
 ## Notebooks / Python
  - [Python Fossil Segmentation Exercises](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Kaggle_Competitions/04-Fossil.ipynb) or [binder](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2021/main?filepath=Kaggle_Competitions/04-Fossil.ipynb)
  - [Python Nerve Segmentation Exercises](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Kaggle_Competitions/04-Exercises.ipynb) or [binder](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2021/main?filepath=Kaggle_Competitions/04-Exercises.ipynb)
