@@ -7,7 +7,8 @@
 - Start Jupyter
 
 ## Notebooks / Python
- - [Python Fossil Segmentation Exercises](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/04-Segmentation/04-Fossil.ipynb) or [binder](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2021/main?filepath=Kaggle_Competitions/04-Fossil.ipynb)
+ - [Python Fossil Segmentation Exercises](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/04-Segmentation/04-Fossil.ipynb)
+  - [Partial solution, with the code provided](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/04-Segmentation/04-Fossil_guided.ipynb). The last part with the nerve is still up to you to solve.
  - [Python Nerve Segmentation Exercises](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/04-Segmentation/04-Exercises.ipynb) or [binder](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2021/main?filepath=Kaggle_Competitions/04-Exercises.ipynb)
 
 # Further exercises if you want more
