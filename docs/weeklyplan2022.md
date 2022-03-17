@@ -66,7 +66,7 @@
     <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-04/04-BasicSegmenation_Part2.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a></td>
   <td><a href="https://youtu.be/9nzLKOiDK6M"><img src="figures/YouTube_OldRecording.svg" alt="Part 1" height="30px"/></a> 
     <a href="https://youtu.be/6ax1_lvo8Gk"><img src="figures/YouTube_OldRecording.svg" alt="Part 2" height="30px"/></a></td>
-    <td></td>
+    <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/04-Segmentation"><img src="figures/np_work-from-home_3742622_000000.svg" height="40px"/></a></td>
   </tr> 
 <tr>
   <td>5</td>
