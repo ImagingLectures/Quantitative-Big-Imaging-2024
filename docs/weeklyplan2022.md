@@ -71,7 +71,7 @@
   </tr> 
 <tr>
   <td>5</td>
-  <td><img src="figures/np_machine-learning_1701180_000000.svg" height="40px"/></td>
+  <td><img src="figures/np_machine-learning_4474871_000000.svg" height="40px"/></td>
   <td>Advanced Segmentation</td>
   <td>24 Mar</td>
   <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/QBI-Lecture05-AdvancedSegmentation.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
@@ -101,7 +101,7 @@
   
   <tr>
     <td>7</td>
-    <td><img src="figures/np_machine-learning_4474871_000000.svg" height="40px"/></td>
+    <td><img src="figures/np_machine-learning_1701180_000000.svg" height="40px"/></td>
     <td>Analyzing Complex Objects</td>
     <td>7 Apr</td>
     <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture07-ComplexShape.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
