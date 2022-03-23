@@ -64,8 +64,9 @@
     <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-04/04-BasicSegmenation.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>&nbsp;&nbsp;
     <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-04/04-BasicSegmentation_Part2.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp; 
     <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-04/04-BasicSegmenation_Part2.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a></td>
-  <td><a href="https://youtu.be/9nzLKOiDK6M"><img src="figures/YouTube_OldRecording.svg" alt="Part 1" height="30px"/></a> 
-    <a href="https://youtu.be/6ax1_lvo8Gk"><img src="figures/YouTube_OldRecording.svg" alt="Part 2" height="30px"/></a></td>
+  <td><a href="https://youtu.be/HYxRVeD9fVg"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a> 
+    <a href="https://youtu.be/yPwjrIvqYVU"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a>
+    <a href="https://youtu.be/Ys_QiS_mi0I"><img src="figures/YouTube.svg" alt="Part 1 missing piece" height="30px"/></a></td>
     <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/04-Segmentation"><img src="figures/np_work-from-home_3742622_000000.svg" height="40px"/></a></td>
   </tr> 
 <tr>
@@ -73,14 +74,14 @@
   <td><img src="figures/np_machine-learning_1701180_000000.svg" height="40px"/></td>
   <td>Advanced Segmentation</td>
   <td>24 Mar</td>
-  <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture05-AdvancedSegmentation.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
-  <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-05/05-AdvancedSegmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
-    <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-05/05-AdvancedSegmentation.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>&nbsp;&nbsp;
-    <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-05/05-SupervisedSegmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
-    <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-05/05-SupervisedSegmentation.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>
+  <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/QBI-Lecture05-AdvancedSegmentation.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
+  <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-05/05-AdvancedSegmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
+    <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-05/05-AdvancedSegmentation.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>&nbsp;&nbsp;
+    <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-05/05-SupervisedSegmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
+    <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-05/05-SupervisedSegmentation.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>
   </td>
   <td><a href="https://youtu.be/0v7sA300Dbc"><img src="figures/YouTube_OldRecording.svg" alt="Part 1" height="30px"/></a> <a href="https://youtu.be/8tgReR_U3nI"><img src="figures/YouTube_OldRecording.svg" alt="Part 2" height="30px"/></a></td>
-  <td></td>
+  <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/05-Segmentation"><img src="figures/np_work-from-home_3742622_000000.svg" height="40px"/></a></td>
   </tr>  
   
   <tr>
