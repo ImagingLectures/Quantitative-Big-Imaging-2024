@@ -1,11 +1,12 @@
+![](../../docs/figures/np_shape_2328381_000000.svg)
 # Exercises to lecture 6 - Shape analysis
 
 ## Basic Shape Analysis
-- [Basic shape exercises](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Exercises/06-Shapes/06-Exercises.ipynb)
+- [Basic shape exercises](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/06-Shapes/06-Exercises.ipynb)
 
 
 ## Advanced Shape Analysis
-- [Advanced Shape exercises](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Exercises/06-Shapes/06-AdvShape.ipynb)
+- [Advanced Shape exercises](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/06-Shapes/06-AdvShape.ipynb)
 
 
 ### Alternative material
