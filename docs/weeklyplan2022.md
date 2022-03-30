@@ -89,14 +89,15 @@
     <td><img src="figures/np_shape_2328381_000000.svg" height="40px"/></td>
     <td>Analyzing Single Objects, Shape and Texture</td>
     <td>31 Mar</td>
-    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture06-ShapeAnalysis.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;
-        <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-06/06-ShapeAnalysis.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
+    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/QBI-Lecture06-ShapeAnalysis.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;
+        <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-06/06-ShapeAnalysis.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
         <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-06/06-ShapeAnalysis.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>&nbsp;&nbsp;
-      <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-06/06-AdvancedShapeAndTexture.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
-      <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-06/06-AdvancedShapeAndTexture.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>
+      <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-06/06-AdvancedShapeAndTexture.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
+      <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-06/06-AdvancedShapeAndTexture.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>
     </td>
     <td><a href="https://youtu.be/IxPojgnYMcQ"><img src="figures/YouTube_OldRecording.svg" alt="Part 1" height="30px"/></a> <a href="https://youtu.be/tHxVhCCYpxc"><img src="figures/YouTube_OldRecording.svg" alt="Part 2" height="30px"/></a></td>
-    <td></td>
+    <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/tree/main/Exercises/06-Shapes"><img src="figures/np_work-from-home_3742622_000000.svg" height="40px"/>
+      </td>
   </tr> 
   
   <tr>
