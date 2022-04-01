@@ -1,0 +1,14 @@
+# Book settings
+title: Iso-line average
+only_build_toc_files: true
+
+author: Anders Kaestner
+#logo: 'images/logo.png'
+
+execute:
+  timeout: -1
+  execute_notebooks: auto
+
+latex:
+  latex_documents:
+     targetname: IsoLineAvg.tex

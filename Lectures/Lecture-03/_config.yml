@@ -11,4 +11,4 @@ execute:
 
 latex:
   latex_documents:
-     targetname: QBI-Lecture02-ImageEnhancement.tex
+     targetname: QBI-Lecture03-ImageEnhancement.tex

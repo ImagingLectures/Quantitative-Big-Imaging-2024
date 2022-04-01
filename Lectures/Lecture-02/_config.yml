@@ -10,4 +10,4 @@ execute:
 
 latex:
   latex_documents:
-     targetname: QBI-Lecture03-Datasets.tex
+     targetname: QBI-Lecture02-Datasets.tex
