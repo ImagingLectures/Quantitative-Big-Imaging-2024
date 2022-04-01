@@ -15,7 +15,7 @@
     <td><img src="figures/np_introduction_3382970_000000.svg" alt="Part 2" height="40px"/></td>
     <td>Introduction and Workflows</td>
     <td>24 Feb</td> 
-    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/QBI-Lecture01-Introduction.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;
+    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/lecturenotes/QBI-Lecture01-Introduction.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;
      <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-01/01-Introduction.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp; 
       <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-01/01-Introduction.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a></td>
     <td><a href="https://youtu.be/pXcPetU9sK8"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a><a href="https://youtu.be/lslXWQA7W58"><img src="figures/YouTube_OldRecording.svg" alt="Part 2" height="30px"/></a></td>
@@ -26,7 +26,7 @@
     <td><img src="figures/np_data_3132352_000000.svg" alt="Part 2" height="40px"/></td>
     <td>Ground Truth: Building and Augmenting Datasets</td>
     <td>3 Mar</td>
-    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture03-Datasets.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
+    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/lecturenotes/QBI-Lecture02-Datasets.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
       <a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-02/02-Datasets.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
   <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-02/02-Datasets.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>
     </td>
@@ -39,7 +39,7 @@
     <td><img src="figures/np_photo-filters_2344219_000000.svg" alt="Part 2" height="40px"/></td>
     <td>Image enhancement</td>
     <td>10 Mar</td>
-    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/QBI-Lecture03-ImageEnhancement.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
+    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/lecturenotes/QBI-Lecture03-ImageEnhancement.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
   <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-03/03-ImageEnhancement.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp; 
   <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-03/03-ImageEnhancement.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a></td>
     <td><a href="https://youtu.be/G2C8uScSNBQ"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a><a href="https://youtu.be/8FUHPLs-xYk"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td>
@@ -59,7 +59,7 @@
     <td><img src="figures/np_segmentation_4159870_000000.svg" height="40px"/></td>
     <td>Basic Segmentation, Discrete Binary Structures</td>
     <td>17 Mar</td>
-    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/QBI-Lecture04-BasicSegmentation.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
+    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/lecturenotes/QBI-Lecture04-BasicSegmentation.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
     <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-04/04-BasicSegmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
     <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-04/04-BasicSegmenation.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>&nbsp;&nbsp;
     <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-04/04-BasicSegmentation_Part2.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp; 
@@ -74,7 +74,7 @@
   <td><img src="figures/np_machine-learning_4474871_000000.svg" height="40px"/></td>
   <td>Advanced Segmentation</td>
   <td>24 Mar</td>
-  <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/QBI-Lecture05-AdvancedSegmentation.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
+  <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/lecturenotes/QBI-Lecture05-AdvancedSegmentation.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
   <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-05/05-AdvancedSegmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
     <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-05/05-AdvancedSegmentation.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>&nbsp;&nbsp;
     <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-05/05-SupervisedSegmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
@@ -89,7 +89,7 @@
     <td><img src="figures/np_shape_2328381_000000.svg" height="40px"/></td>
     <td>Analyzing Single Objects, Shape and Texture</td>
     <td>31 Mar</td>
-    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/QBI-Lecture06-ShapeAnalysis.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;
+    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/lecturenotes/QBI-Lecture06-ShapeAnalysis.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;
         <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-06/06-ShapeAnalysis.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
         <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-06/06-ShapeAnalysis.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>&nbsp;&nbsp;
       <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-06/06-AdvancedShapeAndTexture.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
@@ -106,8 +106,8 @@
     <td>Analyzing Complex Objects</td>
     <td>7 Apr</td>
     <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture07-ComplexShape.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
-      <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-07/07-ComplexObjects.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp; 
-      <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-07/07-ComplexObjects.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a></td>
+      <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-07/07-ComplexObjects.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp; 
+      <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-07/07-ComplexObjects.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a></td>
     <td><a href="https://youtu.be/0MOBX1acqH0"><img src="figures/YouTube_OldRecording.svg" alt="Part 1" height="30px"/></a> <a href="https://youtu.be/wBW8zavr9kY"><img src="figures/YouTube_OldRecording.svg" alt="Part 2" height="30px"/></a></td>
     <td></td>
   </tr>
