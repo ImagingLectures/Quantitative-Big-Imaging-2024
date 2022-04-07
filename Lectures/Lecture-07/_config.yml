@@ -3,7 +3,7 @@ title: Quantitative Big Imaging - Complex shapes
 only_build_toc_files: true
 
 author: Anders Kaestner
-#logo: 'images/logo.png'
+logo: figures/07-all_icons-advancedshapes.png
 
 execute:
   timeout: -1
