@@ -105,7 +105,7 @@
     <td><img src="figures/np_machine-learning_1701180_000000.svg" height="40px"/></td>
     <td>Analyzing Complex Objects</td>
     <td>7 Apr</td>
-    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture07-ComplexShape.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
+    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/lecturenotes/QBI-Lecture07-ComplexShape.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
       <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-07/07-ComplexObjects.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp; 
       <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-07/07-ComplexObjects.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a></td>
     <td><a href="https://youtu.be/sTdtTdLveMI"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a> <a href="https://youtu.be/edHsFqLNwQw"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td>
@@ -117,7 +117,7 @@
     <td><img src="figures/np_statistics_4108630_000000.svg" height="40px"/></td>
     <td>Statistics, Prediction, and Reproducibility</td>
     <td>14 Apr</td>
-    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture08-Statistics.pdf">
+    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/QBI-Lecture08-Statistics.pdf">
     <img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
     <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-08/08-Statistics.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp; 
       <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-08/08-Statistics.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>
