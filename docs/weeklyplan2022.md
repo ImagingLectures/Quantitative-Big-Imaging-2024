@@ -117,7 +117,7 @@
     <td><img src="figures/np_statistics_4108630_000000.svg" height="40px"/></td>
     <td>Statistics, Prediction, and Reproducibility</td>
     <td>14 Apr</td>
-    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/QBI-Lecture08-Statistics.pdf">
+    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/lecturenotes/QBI-Lecture08-Statistics.pdf">
     <img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
     <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-08/08-Statistics.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp; 
       <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-08/08-Statistics.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>
