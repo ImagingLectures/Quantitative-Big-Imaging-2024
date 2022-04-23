@@ -1,10 +1,5 @@
-# Skeletons 
-- [Streets and roots](07-Skeletons.ipynb). Analyzing thin structures in 2D and 3D images using skeletons.
+![](../../docs/figures/np_statistics_4108630_000000.svg)
+# Exercises to lecture 8 - Statistics and data frames
+- [Working with data frames and statistics](08-Statistics_DataFrames.ipynb) in this exercise we will combine statistical hyposthesis testing with the practical components of data frames and data visualization.
 
-## Exercises from previous years
-### Python
-- [Battery Dataset](https://www.kaggle.com/kmader/battery-3d-images) The battery dataset along with Kernels for basic preprocessing and analysis.
 
-- [Kaggle Street Network](https://www.kaggle.com/kmader/d/kmader/street-network-segmentation/thresholding-streets)
-- [Kaggle Electron Microscopy Segmentation](https://www.kaggle.com/kmader/d/kmader/electron-microscopy-3d-segmentation/qbi-comple-object-analysis-skeletonization)
-- [Kaggle Python Notebook](https://www.kaggle.com/kmader/d/kmader/qbi-image-enhancement/qbi2017-many-objects-and-distributions/)
