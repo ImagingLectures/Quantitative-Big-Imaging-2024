@@ -2,8 +2,8 @@
 # Explore the basics of registration
 ### Registration 101
 I recommend working through this tutorial
-- [![slides](https://img.shields.io/badge/Registration-Tutorial-blue.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2022/master?filepath=Exercises/Registration101.ipynb) [Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2022/blob/master/Exercises/Registration101.ipynb)
-
+- [![slides](https://img.shields.io/badge/Registration-Tutorial-blue.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2022/master?filepath=Exercises/09-DymanicExperiments/Registration101.ipynb) [Handout](http://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/09-DynamicExperiments/Registration101.ipynb)
+https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/09-DynamicExperiments/Registration101.ipynb
 ### Kaggle exercises 
 Look through the exercises. You would spend quite some time doing all but there is a lot to learn by only reading and observing.
 - [Kaggle Neuron Tracking](https://www.kaggle.com/kmader/track-neuron-movement)
