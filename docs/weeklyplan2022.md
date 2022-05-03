@@ -144,12 +144,12 @@
     <td><img src="figures/np_timing_4137191_000000.png" height="40px"/></td>
     <td>Dynamic Experiments</td>
     <td>28 Apr</td>
-    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/QBI-Lecture09-DynamicExperiments.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;
+    <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/lecturenotes/QBI-Lecture09-DynamicExperiments.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;
       <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-09/09-DynamicExperiments.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
       <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-09/09-DynamicExperiments.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a></td>
     <td>
-      <a href="https://youtu.be/_aCiYQ7ih8M"><img src="figures/YouTube_OldRecording.svg" alt="Part 1" height="30px"/></a> 
-      <a href="https://youtu.be/h43lRG3ENYE"><img src="figures/YouTube_OldRecording.svg" alt="Part 2" height="30px"/></a></td>
+      <a href="https://youtu.be/lj7pzQEGi8I"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a> 
+      <a href="https://youtu.be/JQZIZD8qYgM"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td>
     <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/tree/main/Exercises/09-DynamicExperiments"><img src="figures/np_work-from-home_3742622_000000.svg" height="40px"/></td>
   </tr>
   
@@ -159,9 +159,9 @@
     <td>Imaging with multiple modalities</td>
     <td>5 May</td>
     <td>
-      <a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/QBI-Lecture10-BimodalExperiments.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;
-      <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-10/10-BimodalExperiments.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
-      <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2021/blob/main/Lectures/Lecture-10/10-BimodalExperiments.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>
+      <a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/lecturenotes/QBI-Lecture10-BimodalExperiments.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;
+      <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-10/10-BimodalExperiments.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
+      <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-10/10-BimodalExperiments.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>
       </td>
     <td><a href="https://youtu.be/bZydtZHzzFU"><img src="figures/YouTube_OldRecording.svg" alt="Part 1" height="30px"/></a> 
       <a href="https://youtu.be/7P43tByjl9w"><img src="figures/YouTube_OldRecording.svg" alt="Part 2" height="30px"/></a></td>
