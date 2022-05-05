@@ -1,0 +1,24 @@
+.column {
+  float: left;
+  width: 45%;
+  padding: 5px;
+}
+
+.column13 {
+  float: left;
+  width: 33%;
+  padding: 5px;
+}
+
+.column23 {
+  float: left;
+  width: 66%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
