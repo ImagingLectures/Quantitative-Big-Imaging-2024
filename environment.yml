@@ -43,11 +43,13 @@ dependencies:
   - pyqtgraph 
   - pyct 
   - pyct-core
+  - psutil
   - ffmpeg
   - dask-image
   - plotnine
   - webcolors
   - ipyvolume
+  - dask-ndfilters
   - pip :
     - simpleitk
     - itkwidgets
