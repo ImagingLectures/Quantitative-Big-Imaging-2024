@@ -189,7 +189,7 @@
     <td>12</td>
     <td><img src="figures/np_classification-analysis_1630947_000000.svg" height="40px"/></td>
     <td>Project</td>
-    <td>19 May</td>
+    <td>W20</td>
     <td>Project consultation (make appointments)</td>
     <td></td>
     <td></td>
@@ -199,7 +199,7 @@
     <td></td>
     <td><img src="figures/np_mystical-ascention_75128_000000.svg" height="40px"/></td>
     <td>Ascension (no lecture)</td>
-    <td>26 May</td>
+    <td>W21</td>
     <td>Project consultation (make appointments)</td>
     <td></td>
     <td></td>
