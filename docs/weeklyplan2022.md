@@ -179,8 +179,8 @@
     <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-11/11-WrapUpQBI.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
       <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-11/11-WrapUpQBI.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a></td>
     <td>
-      <a href="https://youtu.be/dhjl7xB-5tw"><img src="figures/YouTube_OldRecording.svg" alt="Part 1" height="30px"/></a> 
-      <a href="https://youtu.be/UqbqaPMQCaE"><img src="figures/YouTube_OldRecording.svg" alt="Part 2" height="30px"/></a>
+      <a href="https://youtu.be/Mh3sKggWiyM"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a> 
+      <a href="https://youtu.be/NbfJbaeR5Kg"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a>
     </td>
     <td></td>
   </tr>
