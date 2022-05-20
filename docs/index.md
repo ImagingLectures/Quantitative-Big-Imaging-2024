@@ -24,8 +24,6 @@ Please note the Lecture Slides and PDF do not contain active source code, this i
 1. Appreciation of automation and which steps it is most appropriate for
 1. The relationship between automation and reproducibility for analysis
 
-<details>
-
 ### Image Enhancement
 1. Awareness of the function enhancement serves and the most commonly used methods
 1. Knowledge of limitations and new problems created when using/overusing these techniques
@@ -61,5 +59,3 @@ The final examination (as originally stated in the course material) will be a 30
 ## Projects
 The projects are optional, but highly recommended to do as they give better insight in practical problems occurring while analyzing real data. We provide a list of projects, but you can also take the opportunity to extract a fraction of your other ongoing projects like master's or PhD project. Please contact Anders Kaestner in advance if you choose to define your own project.
 - [Overview](projectoverview.md) of possible projects
-
-</details>
