@@ -1,4 +1,4 @@
-# Weekly Plan [![Build Status](https://www.travis-ci.com/ImagingLectures/Quantitative-Big-Imaging-2023.svg?branch=main)](https://www.travis-ci.com/ImagingLectures/Quantitative-Big-Imaging-2023)
+# QBI 2023 - Weekly Plan [![Build Status](https://www.travis-ci.com/ImagingLectures/Quantitative-Big-Imaging-2023.svg?branch=main)](https://www.travis-ci.com/ImagingLectures/Quantitative-Big-Imaging-2023)
 
 <table style="width: 1400px;">
   <tr>
