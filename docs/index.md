@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.com/ImagingLectures/Quantitative-Big-Imaging-2022.svg?token=yKDxiqCwAHCp8qzqpcFZ&branch=main)](https://travis-ci.com/ImagingLectures/Quantitative-Big-Imaging-2022)
+[![Build Status](https://travis-ci.com/ImagingLectures/Quantitative-Big-Imaging-2023.svg?token=yKDxiqCwAHCp8qzqpcFZ&branch=main)](https://travis-ci.com/ImagingLectures/Quantitative-Big-Imaging-2023)
 
-# Quantitative Big Imaging Course 2022
+# Quantitative Big Imaging Course 2023
 
-Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2022 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136177&semkez=2022S&lang=en): Quantitative Big Imaging.
+Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2023 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136177&semkez=2022S&lang=en): Quantitative Big Imaging.
 
 ## Detailed information
 - [Weekly lecture plan](weeklyplan2022.md)
@@ -13,7 +13,7 @@ Here are the lectures, exercises, and additional course materials corresponding 
 
 ---
 
-Please note the Lecture Slides and PDF do not contain active source code, this is only available in the handout file. The lectures will be recorded and uploaded on the YouTube [QBI 2022 Playlist](https://youtube.com/playlist?list=PLcDfeQH_rVdZmuTymfKpuJ3-Hy4kjXDZZ). The lectures are meant to be followed in chronological order and each lecture has a corresponding hands-on exercise.
+Please note the Lecture Slides and PDF do not contain active source code, this is only available in the handout file. The lectures will be recorded and uploaded on the YouTube [QBI 2023 Playlist](https://youtube.com/playlist?list=PLcDfeQH_rVdZmuTymfKpuJ3-Hy4kjXDZZ). The lectures are meant to be followed in chronological order and each lecture has a corresponding hands-on exercise.
 
 ## Learning Objectives
 
@@ -53,8 +53,7 @@ The course is designed with both advanced undergraduate and graduate level stude
 - More advanced students who are already very familiar with Python, C++, or Java are also encouraged to take the course and will have to opportunity to develop more of their own tools or explore topics like machine learning in more detail.
 
 ## Final Examination
-The final examination (as originally stated in the course material) will be a 30 minute oral exam covering the material of the course and its applications to real systems. For students who present a project, they will have the option to use their project for some of the real systems related questions (provided they have sent their slides to [Anders](mailto:anders.kaestner@psi.ch) after the presentation and bring a printed out copy to the exam including several image slices if not already in the slides).  The exam will cover all the lecture material from Image Enhancement to Scaling Up (the guest lecture will not be covered). Several example questions (not exhaustive) have been collected which might be helpful for preparation.
-- [Practice Questions](https://rawgithub.com/kmader/Quantitative-Big-Imaging-Course/master/PracticeExam/exam.html)
+The final examination (as originally stated in the course material) will be a 30 minute oral exam covering the material of the course and its applications to real systems. For students who present a project, they will have the option to use their project for some of the real systems related questions (provided they have sent their slides to [Anders](mailto:anders.kaestner@psi.ch) after the presentation and bring a printed out copy to the exam including several image slices if not already in the slides).  The exam will cover all the lecture material from Image Enhancement to Scaling Up. Several example questions (not exhaustive) have been collected which might be helpful for preparation.
 
 ## Projects
 The projects are optional, but highly recommended to do as they give better insight in practical problems occurring while analyzing real data. We provide a list of projects, but you can also take the opportunity to extract a fraction of your other ongoing projects like master's or PhD project. Please contact Anders Kaestner in advance if you choose to define your own project.
