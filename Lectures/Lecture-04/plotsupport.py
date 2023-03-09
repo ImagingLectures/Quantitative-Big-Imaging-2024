@@ -61,3 +61,64 @@ def showHitCases(gt,pr,ax=None, cmap='viridis') :
     ax[2].imshow((1-gt)*pr,cmap=cmap,interpolation='none'), ax[2].set_title('False Positive')
     ax[3].imshow((1-gt)*(1-pr),cmap=cmap,interpolation='none'), ax[3].set_title('True Negative')
     
+def visualize_normalization(img, ob, dc,norm) :
+    m, s  = img.mean(), img.std()
+    mo,so = ob.mean(), ob.std()
+    md,sd = dc.mean(), dc.std()
+    mn,sn = norm.mean(),norm.std()
+    
+    fig = plt.figure(figsize=(10,4))
+    ax1 = plt.subplot2grid(shape=(2, 4), loc=(0, 0))
+    ax2 = plt.subplot2grid(shape=(2, 4), loc=(0, 1))
+    ax3 = plt.subplot2grid(shape=(2, 4), loc=(1, 0))
+    ax4 = plt.subplot2grid(shape=(2, 4), loc=(1, 1))
+    ax5 = plt.subplot2grid((2, 4), (0, 2), colspan=2,rowspan=2)
+
+    ax1.imshow(img,clim=[m-s,m+s],cmap='gray')
+    ax1.set_xticks([])
+    ax1.set_yticks([])
+    ax1.set_title('Measured')
+
+    ax2.imshow(dc,clim=[md-2*sd,md+2*sd],cmap='gray')
+    ax2.set_xticks([])
+    ax2.set_yticks([])
+    ax2.set_title('Bias')
+
+    ax3.imshow(ob,clim=[mo-2*so,mo+2*so],cmap='gray')
+    ax3.set_xticks([])
+    ax3.set_yticks([])
+    ax3.set_title('Illumination')
+    
+
+    ax4.imshow(dc,clim=[md-2*sd,md+2*sd],cmap='gray')
+    ax4.set_xticks([])
+    ax4.set_yticks([])
+    ax4.set_title('Bias')
+    
+
+    ax5.imshow(norm,clim=[mn-5*sn,1],cmap='gray')
+    ax5.set_xticks([])
+    ax5.set_yticks([]);
+    ax5.set_title('Normalized')
+    
+
+    ax1.annotate('-',
+                xy=(0.24, 0.63), xycoords='figure fraction',
+                horizontalalignment='center', verticalalignment='center',
+                fontsize=50)
+
+    ax3.annotate('-',
+                xy=(0.24, 0.215), xycoords='figure fraction',
+                horizontalalignment='center', verticalalignment='center',
+                fontsize=50)
+
+    ax5.annotate('=',
+                xy=(0.5, 0.43), xycoords='figure fraction',
+                horizontalalignment='center', verticalalignment='center',
+                fontsize=30)
+
+    ax1.annotate('', xy=(0.01, 0.43), xycoords='figure fraction', xytext=(0.47,0.43),
+    arrowprops=dict(arrowstyle="-",lw=2))
+    plt.tight_layout()
+
+    
