@@ -42,7 +42,7 @@
     <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2023/lecturenotes/QBI-Lecture03-ImageEnhancement.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
   <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2023/blob/main/Lectures/Lecture-03/03-ImageEnhancement.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp; 
   <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2023/blob/main/Lectures/Lecture-03/03-ImageEnhancement.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a></td>
-    <td><a href="https://youtu.be/G2C8uScSNBQ"><img src="figures/YouTube_OldRecording.svg" alt="Part 1" height="30px"/></a><a href="https://youtu.be/8FUHPLs-xYk"><img src="figures/YouTube_OldRecording.svg" alt="Part 2" height="30px"/></a></td>
+    <td><a href="https://youtu.be/hZS4cYwdD5A"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a><a href="https://youtu.be/eFo4hetiisc"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a></td>
     <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2023/blob/main/Exercises/03-ImageEnhancement"><img src="figures/np_work-from-home_3742622_000000.svg" height="40px"/></a></td>
   </tr>  
   <tr>
