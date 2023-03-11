@@ -57,7 +57,7 @@
   <tr>
     <td>4</td>
     <td><img src="figures/np_segmentation_4159870_000000.svg" height="40px"/></td>
-    <td>Basic Segmentation, Discrete Binary Structures</td>
+    <td>Basic Segmentation, Discrete Binary Structures (Pre recorded lecture)</td>
     <td>16 Mar</td>
     <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2023/lecturenotes/QBI-Lecture04-BasicSegmentation.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
     <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2023/blob/main/Lectures/Lecture-04/04-BasicSegmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
@@ -65,7 +65,7 @@
     <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2023/blob/main/Lectures/Lecture-04/04-BasicSegmentation_Part2.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp; 
     <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2023/blob/main/Lectures/Lecture-04/04-BasicSegmenation_Part2.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a></td>
   <td><a href="https://youtu.be/dx9Bx80BbCE"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a> 
-    <a href="https://youtu.be/Zvqo_FlEaDs"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a>
+    <a href="https://youtu.be/Zvqo_FlEaDs"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a><br />
     <a href="https://youtu.be/Pdt0b-FTR4E"><img src="figures/YouTube.svg" alt="Part 3" height="30px"/></a>
     <a href="https://youtu.be/4qCVeL33y-Y"><img src="figures/YouTube.svg" alt="Part 4" height="30px"/></a></td>
     <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2023/blob/main/Exercises/04-Segmentation"><img src="figures/np_work-from-home_3742622_000000.svg" height="40px"/></a></td>
