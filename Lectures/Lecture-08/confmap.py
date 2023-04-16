@@ -1,6 +1,15 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+def cdf(x,m,s) :
+    return 0.5*(1+spec.erf((x-m)/(s*np.sqrt(2))))
+
+def cdfc(x,m,s) :
+    return 0.5*(spec.erfc((x-m)/(s*np.sqrt(2))))
+
+def gaussian(x,m,s) :
+    return 1/(np.sqrt(2*np.pi)*s)*np.exp(-(x-m)**2/(2*s**2))
+
 def multi_gaussian(x,m,s) :
     return np.exp(-(x-m)**2/(2*s**2))
 
@@ -81,7 +90,7 @@ def conf_value(x,c,m,s) :
     return w[c]/w.sum()
     
 
-def conf_map(data,segm,m,s) :
+def conf_map(data,segm,m,s,c=None) :
     """  Computes the confidence map of a segmented image using the original image and class statistics.
 
     Parameters
@@ -101,7 +110,11 @@ def conf_map(data,segm,m,s) :
     if len(classlabels) != len(m) :
         raise ValueError("Number of segmented classes doesn't match m array!")
     
-    res = np.array([conf_value(x,int(c),m=m,s=s) for x,c in zip(data.ravel(),segm.ravel())])
+    if c is None :
+        res = np.array([conf_value(x,int(c),m=m,s=s) for x,c in zip(data.ravel(),segm.ravel())])  
+    else :
+        res = np.array([conf_value(x,int(c),m=m,s=s) for x in data.ravel()])
+        
     res = res.reshape(data.shape)
-
+    
     return res
