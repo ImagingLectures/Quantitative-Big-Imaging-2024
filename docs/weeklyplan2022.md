@@ -134,8 +134,8 @@
       <a href="https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Quantitative-Big-Imaging-2023/blob/main/Lectures/Lecture-08/08-Statistics.ipynb"><img src="figures/np_presentation.svg" height="40px"/></a>
     </td>
     <td>
-      <a href="https://youtu.be/pQ0-w6xEpT0"><img src="figures/YouTube_OldRecording.svg" alt="Part 1" height="30px"/></a> 
-      <a href="https://youtu.be/gRqZPKYN8io"><img src="figures/YouTube_OldRecording.svg" alt="Part 2" height="30px"/></a>
+      <a href="https://youtu.be/KyFKf5kvQSQ"><img src="figures/YouTube.svg" alt="Part 1" height="30px"/></a> 
+      <a href="https://youtu.be/jc8WpGCuaD8"><img src="figures/YouTube.svg" alt="Part 2" height="30px"/></a>
     </td>
     <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2023/tree/main/Exercises/08-Statistics"><img src="figures/np_work-from-home_3742622_000000.svg" height="40px"/></td>
   </tr>
