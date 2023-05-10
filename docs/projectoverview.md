@@ -14,6 +14,29 @@
 [Here](https://docs.google.com/spreadsheets/d/1Xvf4I5t-QkgXFBoDJ8BrMA8RTtuZWILfFBRhMjqP8Z8/edit#gid=618907183) you can sign up for the projects and [here](https://qbi2019.slack.com/messages/projects/) you can discuss with other students about forming teams or other ideas.
 
 # Our Projects
+
+## Performance analysis using sphere packings
+We have a series of tomography data obtained acquired using different exposure times to be used as validation reference. The samples is a packing of ball with different diameters. 
+### The task is to implement image processing workflows to
+- evaluate different
+    - filtering techniques
+    - segmentation methods
+- evaluate parameterization sensitivity
+    - explore how well the individual balls can be identified
+    - variations in metrics like volume, and surface area
+- the observe the effect of different SNR
+- possibly also tomography reconstruction with different number of projections
+
+The goal: to find the ideal combination of processing steps to confidently measure the balls.
+
+## Fault evaluation in additive manufacturing
+Items produced using additive manufacturing techniques may show faults. In this data set we have a sample which is produced using a combination of 3D printing and cast.
+
+### Questions
+- where are the faults located in the structures?
+- does shape and size depend on the location?
+- do the faults cluster or are they evenly distributed? 
+
 ## Detection and Analysis of Calcifications in Breast Mamographies (Z. Wang)
 
 - Calcification count and type is an important criterion for breast cancer diagnosis but it is done manually due to the complexity of breast tissue
