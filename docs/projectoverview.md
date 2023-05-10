@@ -11,7 +11,7 @@
  - Key Findings
 
 # Sign Up Link
-[Here](https://docs.google.com/spreadsheets/d/1Xvf4I5t-QkgXFBoDJ8BrMA8RTtuZWILfFBRhMjqP8Z8/edit#gid=618907183) you can sign up for the projects and [here](https://qbi2019.slack.com/messages/projects/) you can discuss with other students about forming teams or other ideas.
+[Here](https://docs.google.com/spreadsheets/d/1fjSXDC7RdN9eSoZRqLxnUQFI8kDS8nAMX2X3uF_WIm8/edit?usp=share_link) you can sign up for the projects.
 
 # Our Projects
 
