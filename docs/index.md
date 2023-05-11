@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.com/ImagingLectures/Quantitative-Big-Imaging-2023.svg?token=yKDxiqCwAHCp8qzqpcFZ&branch=main)](https://travis-ci.com/ImagingLectures/Quantitative-Big-Imaging-2023)
 
 # Quantitative Big Imaging Course 2023
+[![DOI](https://zenodo.org/badge/583726674.svg)](https://zenodo.org/badge/latestdoi/583726674)
 
 Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2023 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136177&semkez=2022S&lang=en): Quantitative Big Imaging.
 
