@@ -1,4 +1,5 @@
-file: preface
+format: jb-article
+root: preface
 sections:
 - file: 04-BasicSegmentation
 - file: 04-BasicSegmentation_Part2

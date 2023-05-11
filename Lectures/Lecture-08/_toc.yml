@@ -1,4 +1,4 @@
-file: preface
+format: jb-article
+root: preface
 sections:
 - file: 08-Statistics
-
