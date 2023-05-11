@@ -1,0 +1,30 @@
+{
+    "description": "These are the lecture notes from the ETH Zurich course Quantitative Big Imaging.", 
+    "license": "other-open", 
+    "title": "ImagingLectures/Quantitative-Big-Imaging-2023: QBI2023 complete lecture notes", 
+    "version": "QBI2023.1", 
+    "upload_type": "Lecture material", 
+    "publication_date": "2023-05-11", 
+    "creators": [
+        {
+            "affiliation": "Paul Scherrer Institut", 
+            "name": "Anders Kaestner"
+        }, 
+        {
+            "name": "Kevin Mader"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/ImagingLectures/Quantitative-Big-Imaging-2023/tree/QBI2023.1", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.7924607", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
