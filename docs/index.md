@@ -5,7 +5,7 @@
 Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2024 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136177&semkez=2022S&lang=en): Quantitative Big Imaging.
 
 ## Detailed information
-- [Weekly lecture plan](weeklyplan2024.md)
+- [Weekly lecture plan](weeklyplan2024)
 - [Exercises](exercises.md)
 - [Communication and Feedback](communication.md)
 - [Software dependencise](dependencies.md)
