@@ -6,16 +6,18 @@ Here are the lectures, exercises, and additional course materials corresponding 
 
 ## Detailed information
 - [Weekly lecture plan](weeklyplan2024)
-- [Exercises](exercises.md)
-- [Communication and Feedback](communication.md)
-- [Software dependencise](dependencies.md)
-- [Other relevant material](othermaterial.md)
+- [Exercises](exercises)
+- [Communication and Feedback](communication)
+- [Software dependencise](dependencies)
+- [Other relevant material](othermaterial)
 
 ---
 
 Please note that the Lecture Slides and PDF do not have active source codes; this is only available in the notebook version of the lecture notes. The lectures will be recorded and uploaded on the YouTube [QBI 2024 Playlist](https://www.youtube.com/playlist?list=PLcDfeQH_rVda3rwtdP3lQe1B7KPkoIZtr). The lectures are meant to be followed chronologically, and each has a corresponding hands-on exercise.
 
 ## Learning Objectives
+
+<details>
 
 ### General
 1. Ability to compare qualitative and quantitative methods and name situations where each would be appropriate
@@ -44,6 +46,8 @@ Please note that the Lecture Slides and PDF do not have active source codes; thi
 1. Familiarity with vocabulary, tools, and main concepts of big data
 1. Awareness of the differences between normal and big data approaches
 1. Ability to explain MapReduce and apply it to a simple problem
+
+</details>
 
 ## Target Audience
 The course is designed with both advanced undergraduate and graduate-level students in mind. Ideally, students will have some familiarity with basic manipulation and programming in languages like Python (Matlab or R are also reasonable starting points). Interested students worried about their skill level are encouraged to contact [Anders Kaestner](anders.kaestner@psi.ch) directly.
