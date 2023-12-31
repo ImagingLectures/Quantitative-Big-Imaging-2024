@@ -62,7 +62,7 @@
   <tr>
     <td>4</td>
     <td><img src="figures/np_segmentation_4159870_000000.svg" height="40px"/></td>
-    <td>Basic Segmentation, Discrete Binary Structures (Pre recorded lecture)</td>
+    <td>Basic Segmentation, Discrete Binary Structures (Pre-recorded lecture)</td>
     <td>16 Mar</td>
     <td><a href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/lecturenotes/QBI-Lecture04-BasicSegmentation.pdf"><img src="figures/downloadbook.svg" height="40px"/></a>&nbsp;&nbsp;
     <a href="https://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2024/blob/main/Lectures/Lecture-04/04-BasicSegmentation.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>&nbsp;&nbsp;
