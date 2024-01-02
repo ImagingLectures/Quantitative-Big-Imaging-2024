@@ -11,7 +11,6 @@
     <th>Lecture video</th>
     <th>Exercises</th>
   </tr>
-  
   <tr>
     <td>1</td>
     <td><img src="figures/np_introduction_3382970_000000.svg" alt="Part 2" height="40px"/></td>
@@ -23,7 +22,6 @@
     <td><a href="https://youtu.be/2_6gY-b3Bvc"><img src="figures/YouTube_OldRecording.svg" alt="Part 1" height="30px"/></a><a href="https://youtu.be/2v4B7dW0Ejk"><img src="figures/YouTube_OldRecording.svg" alt="Part 2" height="30px"/></a></td>
     <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024/tree/main/Exercises/01-Images"><img src="figures/np_work-from-home_3742622_000000.svg" height="40px"/></a></td>
   </tr> 
-  
   <tr>
     <td>2</td>
     <td><img src="figures/np_data_3132352_000000.svg" alt="Part 2" height="40px"/></td>
@@ -36,7 +34,6 @@
     <td><a href="https://youtu.be/ofiYSFWRyY0"><img src="figures/YouTube_OldRecording.svg" alt="Part 1" height="30px"/></a><a href="https://youtu.be/z__01w7IrJQ"><img src="figures/YouTube_OldRecording.svg" alt="Part 2" height="30px"/></a></td> 
         <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024/tree/main/Exercises/02-Augmentation"><img src="figures/np_work-from-home_3742622_000000.svg" height="40px"/></a></td>
   </tr>
-  
   <tr>
     <td>3</td>
     <td><img src="figures/np_photo-filters_2344219_000000.svg" alt="Part 2" height="40px"/></td>
@@ -48,7 +45,6 @@
     <td><a href="https://youtu.be/hZS4cYwdD5A"><img src="figures/YouTube_OldRecording.svg" alt="Part 1" height="30px"/></a><a href="https://youtu.be/eFo4hetiisc"><img src="figures/YouTube_OldRecording.svg" alt="Part 2" height="30px"/></a></td>
     <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024/blob/main/Exercises/03-ImageEnhancement"><img src="figures/np_work-from-home_3742622_000000.svg" height="40px"/></a></td>
   </tr>  
-  
   <tr>
     <td></td>
     <td></td>
@@ -58,7 +54,6 @@
     <td></td>
     <td></td>
   </tr> 
-  
   <tr>
     <td>4</td>
     <td><img src="figures/np_segmentation_4159870_000000.svg" height="40px"/></td>
@@ -75,7 +70,6 @@
     <a href="https://youtu.be/4qCVeL33y-Y"><img src="figures/YouTube_OldRecording.svg" alt="Part 4" height="30px"/></a></td>
     <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024/blob/main/Exercises/04-Segmentation"><img src="figures/np_work-from-home_3742622_000000.svg" height="40px"/></a></td>
   </tr> 
-  
 <tr>
   <td>5</td>
   <td><img src="figures/np_machine-learning_4474871_000000.svg" height="40px"/></td>
@@ -90,7 +84,6 @@
   <td><a href="https://youtu.be/x3fB6WAggx8"><img src="figures/YouTube_OldRecording.svg" alt="Part 1" height="30px"/></a> <a href="https://youtu.be/DMWp1nLMTWc"><img src="figures/YouTube_OldRecording.svg" alt="Part 2" height="30px"/></a></td>
   <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024/tree/main/Exercises/05-AdvancedSegmentation"><img src="figures/np_work-from-home_3742622_000000.svg" height="40px"/></a></td>
   </tr>  
-  
   <tr>
     <td>6</td>
     <td><img src="figures/np_shape_2328381_000000.svg" height="40px"/></td>
@@ -106,7 +99,6 @@
     <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024/tree/main/Exercises/06-Shapes"><img src="figures/np_work-from-home_3742622_000000.svg" height="40px"/>
       </td>
   </tr> 
-  
   <tr>
     <td>7</td>
     <td><img src="figures/np_machine-learning_1701180_000000.svg" height="40px"/></td>
@@ -118,7 +110,6 @@
     <td><a href="https://youtu.be/JxMMQed40E0"><img src="figures/YouTube_OldRecording.svg" alt="Part 1" height="30px"/></a> <a href="https://youtu.be/QEdEwRo3VSc"><img src="figures/YouTube_OldRecording.svg" alt="Part 2" height="30px"/></a></td>
     <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024/tree/main/Exercises/07-ComplexObjects"><img src="figures/np_work-from-home_3742622_000000.svg" height="40px"/></td>
   </tr>
-  
   <tr>
     <td></td>
     <td><img src="figures/np_easter-bunny_2288018_000000.svg" height="40px"/></td>
@@ -128,7 +119,6 @@
     <td></td>
     <td></td>
   </tr>
-  
   <tr>
     <td>8</td>
     <td><img src="figures/np_statistics_4108630_000000.svg" height="40px"/></td>
@@ -145,7 +135,6 @@
     </td>
     <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024/tree/main/Exercises/08-Statistics"><img src="figures/np_work-from-home_3742622_000000.svg" height="40px"/></td>
   </tr>
-  
   <tr>
     <td>9</td>
     <td><img src="figures/np_timing_4137191_000000.png" height="40px"/></td>
@@ -159,7 +148,6 @@
       <a href="https://youtu.be/8l9xsxDKYAc"><img src="figures/YouTube_OldRecording.svg" alt="Part 2" height="30px"/></a></td>
     <td><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024/tree/main/Exercises/09-DynamicExperiments"><img src="figures/np_work-from-home_3742622_000000.svg" height="40px"/></td>
   </tr>
-  
   <tr>
     <td>10</td>
     <td><img src="figures/np_combine_156599_000000.svg" height="40px"/></td>
@@ -174,7 +162,6 @@
       <a href="https://youtu.be/M3QCK4HSYug"><img src="figures/YouTube_OldRecording.svg" alt="Part 2" height="30px"/></a></td>
     <td></td>
   </tr>
-  
   <tr>
     <td>11</td>
     <td><img src="figures/np_computing_4145847_000000.svg" height="40px"/></td>
@@ -191,7 +178,6 @@
     </td>
     <td></td>
   </tr>
-  
   <tr>
     <td>12</td>
     <td><img src="figures/np_classification-analysis_1630947_000000.svg" height="40px"/></td>
@@ -201,7 +187,6 @@
     <td></td>
     <td></td>
   </tr>
-  
   <tr>
     <td></td>
     <td><img src="figures/np_mystical-ascention_75128_000000.svg" height="40px"/></td>
@@ -211,7 +196,6 @@
     <td></td>
     <td></td>
   </tr>
-  
   <tr>
     <td>13</td>
     <td><img src="figures/np_financial-presentation_818023_000000.svg" height="40px"/></td>
