@@ -5,6 +5,8 @@ but you can also take the opportunity to extract a fraction of your other ongoin
 projects like master’s or PhD projects. Please get in touch with 
 <a href="anders.kaestner@psi.ch">Anders Kaestner</a> in advance if you choose to define your project.</p>
 
-<ul>
-  <li><a href="/Quantitative-Big-Imaging-2024/projectoverview.html">Overview</a> of possible projects</li>
-</ul>
+<h2>Project suggestions</h2>
+
+<script>
+  load_project_table('mainview');
+</script>

@@ -74,3 +74,30 @@ function load_table(dest)
   })
   .catch(error => console.error('Error:', error));
 }
+
+function load_project_table(dest)
+{
+    const url = 'https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/pages/projects.json';
+
+    fetch(url)
+      .then(response => response.json())
+      .then(data => {
+    // const tbody = document.getElementById('projectTable').getElementsByTagName('tbody')[0];
+
+    data.forEach(item => 
+    {
+        dest.innerHTML += "<h3>"+item.title+"</h3>";
+        dest.innerHTML += "<p>"+item.description+"</p>";
+        dest.innerHTML += "<p><b>Task:</b> "+item.task+"</p>";
+        dest.innerHTML += "<p><b>Methods:</b> "+item.methods+"</p>";
+        dest.innerHTML += "<p><b>Data:</b> "+item.data+"</p>";
+        dest.innerHTML += "<p><b>Contact:</b> "+item.contact+"</p>";
+        if (item.image != "")
+        {
+            dest.innerHTML += "<img src='"+item.image+"' alt='"+item.title+"' height='100px'/>";
+        }
+
+    })
+    .catch(error => console.error('Error:', error));
+    });
+}

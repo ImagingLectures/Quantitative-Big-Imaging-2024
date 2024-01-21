@@ -8,5 +8,15 @@
         "methods":"Filtering, Registration, Segmentation, quantification, statistics",
         "image":"projects/1.png",
         "contact":"Anders Kaestner"
+    },
+    {
+        "index":2,
+        "title":"Fun stuff",
+        "description": "do it",
+        "data":"Neutron and X-ray tomography volumes of marine bio-constructs and micro-plastics. A control and loaded",
+        "task":"Segmentation of the bio-constructs and micro-plastics, and quantification of the micro-plastics in the bio-constructs. Determine if there is a difference between the control and loaded samples.",
+        "methods":"Filtering, Registration, Segmentation, quantification, statistics",
+        "image":"projects/1.png",
+        "contact":"Anders Kaestner"
     }
 ]
