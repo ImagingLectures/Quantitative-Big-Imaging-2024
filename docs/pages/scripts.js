@@ -83,23 +83,20 @@ function load_project_table(dest)
       .then(response => response.json())
       .then(data => {
 
-    data.forEach(item => 
-    {
-        document.getElementById(dest).innerHTML += "<h3>"+item.title+"</h3>";
-
-        document.getElementById(dest).innerHTML += "<p>"+item.description+"</p>";
-        if (item.image != "")
+        data.forEach(item => 
         {
-            document.getElementById(dest).innerHTML += "<img src='"+item.image+"' alt='"+item.title+"' height='100px'/>";
-        }
-        document.getElementById(dest).innerHTML += "<details>";
-        document.getElementById(dest).innerHTML += "<p><b>Task:</b> "+item.task+"</p>";
-        document.getElementById(dest).innerHTML += "<p><b>Methods:</b> "+item.methods+"</p>";
-        document.getElementById(dest).innerHTML += "<p><b>Data:</b> "+item.data+"</p>";
-        document.getElementById(dest).innerHTML += "<p><b>Contact:</b> "+item.contact+"</p>";
-        document.getElementById(dest).innerHTML += "</details>";
+            document.getElementById(dest).innerHTML += "<h3>"+item.title+"</h3>";
 
-    })
-    .catch(error => console.error('Error:', error));
+            document.getElementById(dest).innerHTML += "<p>"+item.description+"</p>";
+            if (item.image != "")
+            {
+                document.getElementById(dest).innerHTML += "<img src='https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/pages/"+item.image+"' alt='"+item.title+"' height='100px'/>";
+            }
+            document.getElementById(dest).innerHTML += "<details><p><b>Task:</b> "+item.task+"</p>";
+            document.getElementById(dest).innerHTML += "<p><b>Methods:</b> "+item.methods+"</p>";
+            document.getElementById(dest).innerHTML += "<p><b>Data:</b> "+item.data+"</p>";
+            document.getElementById(dest).innerHTML += "<p><b>Contact:</b> "+item.contact+"</p></details>";
+        })
+        .catch(error => console.error('Error:', error));
     });
 }
