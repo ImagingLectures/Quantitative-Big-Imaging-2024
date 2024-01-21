@@ -92,10 +92,10 @@ function load_project_table(dest)
             {
                 document.getElementById(dest).innerHTML += "<img src='https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/pages/"+item.image+"' alt='"+item.title+"' height='100px'/>";
             }
-            document.getElementById(dest).innerHTML += "<details><p><b>Task:</b> "+item.task+"</p>";
-            document.getElementById(dest).innerHTML += "<p><b>Methods:</b> "+item.methods+"</p>";
-            document.getElementById(dest).innerHTML += "<p><b>Data:</b> "+item.data+"</p>";
-            document.getElementById(dest).innerHTML += "<p><b>Contact:</b> "+item.contact+"</p></details>";
+            document.getElementById(dest).innerHTML += "<details><p><b>Task:</b> "+item.task+"</br>";
+            document.getElementById(dest).innerHTML += "<b>Methods:</b> "+item.methods+"</br>";
+            document.getElementById(dest).innerHTML += "<b>Data:</b> "+item.data+"</br>";
+            document.getElementById(dest).innerHTML += "<b>Contact:</b> "+item.contact+"</p></details>";
         })
         .catch(error => console.error('Error:', error));
     });
