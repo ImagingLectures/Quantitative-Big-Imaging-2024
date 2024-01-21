@@ -1,0 +1,12 @@
+[
+    {
+        "index":1,
+        "title":"Micro-plastics in marine bio-constructs",
+        "description": "Micro-plastics are a growing concern in the marine environment. This project will investigate the presence of micro-plastics in marine bio-constructs, such as corals and sponges, and their potential impact on the health of these organisms.",
+        "data":"Neutron and X-ray tomography volumes of marine bio-constructs and micro-plastics. A control and loaded",
+        "task":"Segmentation of the bio-constructs and micro-plastics, and quantification of the micro-plastics in the bio-constructs. Determine if there is a difference between the control and loaded samples.",
+        "methods":"Filtering, Registration, Segmentation, quantification, statistics",
+        "image":"projects/1.png",
+        "contact":"Anders Kaestner"
+    }
+]

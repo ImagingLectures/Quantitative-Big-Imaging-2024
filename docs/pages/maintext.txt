@@ -4,7 +4,7 @@
 
 <h2 id="detailed-information">Detailed information</h2>
 <ul>
-  <li><a href="weeklyplan2024">Weekly lecture plan</a></li>
+  <li><a href="javascript:load_table('mainview')">Weekly lecture plan</a></li>
   <li><a href="javascript:load_text('https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/pages/exercises.txt','mainview')">Exercises</a></li>
   <li><a href="javascript:load_text('https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/pages/communication.txt','mainview')">Communication and Feedback</a></li>
   <li><a href="javascript:load_text('https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/pages/dependencies.txt','mainview')">Software dependencise</a></li>
