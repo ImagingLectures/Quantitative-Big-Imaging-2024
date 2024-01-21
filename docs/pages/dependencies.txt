@@ -1,7 +1,6 @@
 <h1 id="software-dependencies">Software Dependencies</h1>
 
-<p>The course, slides and exercises are primarily done using Python 3.11 and Jupyter Notebook. The binder/repo2docker-compatible environment](https://github.com/jupyter/repo2docker) can be found at <a href="https://github.com/kmader/Quantitative-Big-Imaging-2018/blob/master/binder/environment.yml">binder/environment.yml</a>. A full copy of the environment at the time the class was given is available in the <a href="https://github.com/kmader/Quantitative-Big-Imaging-2018/wiki/Full-Package-List">wiki</a> file. As many of these packages are frequently updated we have also made a copy of the docker image produced by repo2docker uploaded to Docker Hub at https://hub.docker.com/r/kmader/qbi2018/</p>
-
+<p>The course, slides and exercises are primarily done using Python 3.11 and Jupyter Notebook. An environment file can be found at <a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024/blob/main/environment.yml">environment.yml</a>.
 <h2 id="all-lectures">All Lectures</h2>
 <p>The packages which are required for all lectures</p>
 <ul>

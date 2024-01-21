@@ -29,7 +29,7 @@
   <li>Type: <code class="language-plaintext highlighter-rouge">git clone &lt;paste the repository path here&gt;</code>, press enter and wait…</li>
 </ol>
 
-<p>Now you should have a folder called Quantitative-Big-Imaging-2022 at location where you called the clone.</p>
+<p>Now you should have a folder called Quantitative-Big-Imaging-2024 at location where you called the clone.</p>
 
 <h3 id="update-from-git-with-the-latest-changes">Update from git with the latest changes</h3>
 <ol>
@@ -42,12 +42,12 @@
 <h3 id="update-conda-environment">Update conda environment</h3>
 <p>The lectures are an on-going development and there may be new modules required from week to week. Therefore it is recommended to update your environment before starting your exercises. This is done using:</p>
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>conda activate qbi2022
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>conda activate qbi2024
 <span class="nv">$ </span>conda <span class="nb">env </span>update <span class="nt">-f</span> environment.yml
 </code></pre></div></div>
 
 <h2 id="assistance">Assistance</h2>
-<p>The exercises will be supported by Stefano van Gogh and Anders Kaestner Thursdays right after the lectures. For further support, please contact us for an appointment.</p>
+<p>The exercises will be supported by <a href="mailto:daniel.vera-nieto@psi.ch">Daniel Vera Nieto</a> and Anders Kaestner Thursdays right after the lectures. For further support, please contact us for an appointment.</p>
 
 <h2 id="online-tools">Online Tools</h2>
-<p>The exercises will be available on Kaggle as ‘Datasets’ and we will be using mybinder as stated above.</p>
+<p>We try to have the exercises prepared for Google Colab. Which will make it possible to go through the exercises without installing the Anaconda environment on your computer.</p>
