@@ -1,0 +1,53 @@
+<h1 id="exercises">Exercises</h1>
+<h2 id="general-information">General Information</h2>
+<p>The exercises are based on the lectures and take place in the same room after the lecture completes. Links to the exercises are provieded with the lecture slides in the <a href="weeklyplan2022.md">weekly plan</a> The exercises are designed to offer a tiered level of understanding based on the background of the student. Most exercises are prepared as python notebooks that guides you step by step through the exercises. New python commands will be introduced when needed and links to the manual pages will be provided. This is not a course on python programming, you will learn to use this powerful language for different image processing tasks throughout the course.</p>
+
+<h3 id="install-python">Install Python</h3>
+
+<p>If you use colab, kaggle or mybinder you won’t need python on your own machine but if you want to set it up in the same way the class has you can follow the instructions shown in the video <a href="https://youtu.be/bnTCLLSpyf0">here</a> and below</p>
+<ol>
+  <li><a href="https://docs.anaconda.com/anaconda/install/">Install Anaconda Python</a>.</li>
+  <li>Download the course from github as a zip file</li>
+  <li>Extract the zip file</li>
+  <li>Open a terminal (or command prompt on windows)</li>
+  <li>Go to the root folder inside the course directory (something like: <code>cd Downloads/Quantitative-Big-Imaging-2024-master</code>)</li>
+  <li>Install the environment <code>conda env create -f environment.yml -n qbi2024</code></li>
+  <li>Activate the environment <code>conda activate qbi2024</code> or <code>activate qbi2024</code></li>
+  <li>Start python <code>jupyter notebook</code></li>
+</ol>
+
+<h2 id="install-git-and-clone-the-lecturematerial">Install Git and clone the lecture material</h2>
+
+<ol>
+  <li>Follow the instructions to <a href="https://www.atlassian.com/git/tutorials/install-git">install git</a>.</li>
+  <li>Clone the lecture repository.</li>
+  <li>Go to the github page for <a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024">QBI lecture material</a></li>
+  <li>Click the clone button <img src="/Quantitative-Big-Imaging-2024/figures/clonebutton.png" alt="clone button" /></li>
+  <li>Copy the path <img src="/Quantitative-Big-Imaging-2024/figures/clonedialog.png" alt="clone dialog" /></li>
+  <li>Windows: open ‘git bash’, MacOS/Linux: open a terminal.</li>
+  <li>Go to the folder where you want to place the lecture material.</li>
+  <li>Type: <code class="language-plaintext highlighter-rouge">git clone &lt;paste the repository path here&gt;</code>, press enter and wait…</li>
+</ol>
+
+<p>Now you should have a folder called Quantitative-Big-Imaging-2022 at location where you called the clone.</p>
+
+<h3 id="update-from-git-with-the-latest-changes">Update from git with the latest changes</h3>
+<ol>
+  <li>Open a terminal</li>
+  <li>Go to the repository folder</li>
+  <li>Type <code>git pull</code> and wait for the download.</li>
+  <li>The local folder is updated with the latest changes.</li>
+</ol>
+
+<h3 id="update-conda-environment">Update conda environment</h3>
+<p>The lectures are an on-going development and there may be new modules required from week to week. Therefore it is recommended to update your environment before starting your exercises. This is done using:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>conda activate qbi2022
+<span class="nv">$ </span>conda <span class="nb">env </span>update <span class="nt">-f</span> environment.yml
+</code></pre></div></div>
+
+<h2 id="assistance">Assistance</h2>
+<p>The exercises will be supported by Stefano van Gogh and Anders Kaestner Thursdays right after the lectures. For further support, please contact us for an appointment.</p>
+
+<h2 id="online-tools">Online Tools</h2>
+<p>The exercises will be available on Kaggle as ‘Datasets’ and we will be using mybinder as stated above.</p>

@@ -1,0 +1,10 @@
+<h1 id="communication-and-feedback">Communication and feedback</h1>
+<h2 id="feedback-as-much-as-possible">Feedback (as much as possible)</h2>
+<ul>
+  <li>Create an <a href="https://github.com/imaginglectures/Quantitative-Big-Imaging-2024/issues">issue</a> (on the group site that everyone can see and respond to, requires a Github account)</li>
+  <li>Or send direct email to <a href="mailto:anders.kaestner@psi.ch">Anders Kaestner</a></li>
+</ul>
+
+<h2 id="slack">Slack</h2>
+<p>For communicating, discussions, asking questions, and everything, we will be trying out Slack this year. You can sign up under the following <a href="https://join.slack.com/t/imaginglectures/shared_invite/zt-crg9qhyb-4Bw4RSdw4D7vFmJ3N~T56w">link</a>. It isn’t mandatory, but it seems to be an effective way to engage collaboratively <a href="http://www.nature.com/news/how-scientists-use-slack-1.21228">How scientists use slack</a></p>
+

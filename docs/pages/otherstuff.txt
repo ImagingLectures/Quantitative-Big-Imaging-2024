@@ -1,0 +1,46 @@
+      <h1 id="other-material">Other Material</h1>
+
+<ul>
+  <li><a href="https://github.com/jakevdp/PythonDataScienceHandbook">Data Science/Python Introduction Handbook</a></li>
+  <li><a href="http://www.da.inf.ethz.ch/teaching/2018/DeepLearning/">ETH Deep Learning Course</a> taught in the Fall Semester, also uses Python but with a much more intensive mathematical grounding and less focus on images.</li>
+  <li><a href="https://fleuret.org/ee559/">EPFL Deep Learning Course</a> taught in the Spring Semester by Francois Fleuret, uses Python and PyTorch covers theoretical topics and more advanced research topics with a number of applications and code.</li>
+  <li><a href="http://course.fast.ai/">FastAI Deep Learning Course</a> and <a href="http://course.fast.ai/part2.html">Part 2</a> for a very practically focused introduction to Deep Learning using the Python skills developed in QBI.</li>
+  <li><a href="https://selfdrivingcars.mit.edu/">Deep Learning for Self-Driving Cars at MIT</a> open to beginners and is designed for those who are new to machine learning, but it can also benefit advanced researchers in the field looking for a practical overview of deep learning methods and their application</li>
+  <li>Reproducible Research</li>
+  <li><a href="https://www.coursera.org/course/repdata">Coursera Course</a></li>
+  <li>Performance Computing Courses</li>
+  <ul>
+  <li><a href="http://www.cse-lab.ethz.ch/teaching/hpcse-i_hs17/">High Performance Computing for Science and Engineering (HPCSE) I</a></li>
+  <li><a href="https://itunes.apple.com/us/itunes-u/programming-massively-parallel/id384233322?mt=10">Programming Massively Parallel Processors with CUDA</a></li>
+  <li><a href="https://github.com/wildtreetech/advanced-computing-2018">Introduction to Machine Learning (EPFL)</a></li>
+  </ul>
+</ul>
+
+<h3 id="additional-lectures-from-previous-years">Additional Lectures from Previous Years</h3>
+
+<h4 id="tutorial-python-notebooks-and-scikit">Tutorial: Python, Notebooks and Scikit</h4>
+
+<ul>
+  <li>Lecture <a href="https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/03-QBI-PythonTutorial.slides.html">slides</a></li>
+  <li><a href="https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/03-QBI-PythonTutorial.ipynb">Handout</a></li>
+</ul>
+
+<h4 id="roads-from-aerial-images">Roads from Aerial Images</h4>
+<p>Javier Montoya / Computer Vision / ScopeM</p>
+
+<ul>
+  <li><a href="https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/11-AerialSlides.pdf">Slides</a></li>
+  <li><a href="https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/11-Description.html">KNIME Exercises</a></li>
+  <li><a href="https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/11-files/AerialImages.zip">KNIME Workflow</a></li>
+  <li><a href="https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/11-notebook.ipynb">IPython Notebook</a></li>
+  <li><a href="https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/12-files/lab_images.npz">Python Data</a></li>
+  <li><a href="https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/12-notebook.ipynb">IPython Notebook</a></li>
+</ul>
+
+<h4 id="introduction-to-deep-learning--machine-learning">Introduction to Deep Learning / Machine Learning</h4>
+
+<p>Presented by Aurelien Lucchi in <a href="http://www.da.inf.ethz.ch">Data Analytics Lab</a> in D-INFK at ETHZ</p>
+
+<ul>
+  <li><a href="https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/12-DeepLearning.pdf">Slides</a></li>
+</ul>

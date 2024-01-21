@@ -1,0 +1,19 @@
+<h1 >QBI 2024 - Weekly Plan </h1>
+<table class="table table-bordered" id="weeklyTable" width="1400px">
+  <thead class="thead-light">
+    <tr>
+      <th style="width:3em">#</th>
+      <th style="width:60px">Icon</th>
+      <th style="width:65em">Title</th>
+      <th style="width:8em">Date</th>
+      <th style="width:12em">Notebook</th>
+      <th style="width:12em">Slides</th>
+      <th style="width:12em">PDF</th>
+      <th style="width:12em">Videos</th>
+      <th style="width:12em">Exercises</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Table data will be inserted here -->
+  </tbody>
+</table>

@@ -1,0 +1,10 @@
+<h1 id="projects">Projects</h1>
+<p>The projects are optional but highly recommended as they give better insight 
+into practical problems while analyzing actual data. We provide a list of projects, 
+but you can also take the opportunity to extract a fraction of your other ongoing 
+projects like master’s or PhD projects. Please get in touch with 
+<a href="anders.kaestner@psi.ch">Anders Kaestner</a> in advance if you choose to define your project.</p>
+
+<ul>
+  <li><a href="/Quantitative-Big-Imaging-2024/projectoverview.html">Overview</a> of possible projects</li>
+</ul>

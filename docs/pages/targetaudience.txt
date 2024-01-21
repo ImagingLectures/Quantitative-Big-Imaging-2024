@@ -1,0 +1,13 @@
+<h1 id="target-audience">Target Audience</h1>
+<p>The course is designed with both advanced undergraduate and 
+graduate-level students in mind. Ideally, students will have some 
+familiarity with basic manipulation and programming in languages 
+like Python (Matlab or R are also reasonable starting points). 
+Interested students worried about their skill level are encouraged 
+to contact <a href="anders.kaestner@psi.ch">Anders Kaestner</a> directly.</p>
+
+<ul>
+  <li>Students with diverse academic backgrounds have done well in the course (Informatics to Art History to Agriculture).</li>
+  <li>Successful students typically spend a few hours a week working on the exercises to really understand the material.</li>
+  <li>More advanced students who are already very familiar with Python, C++, or Java are also encouraged to take the course and will have the opportunity to develop more of their own tools or explore topics like machine learning in more detail.</li>
+</ul>

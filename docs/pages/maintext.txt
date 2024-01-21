@@ -1,0 +1,16 @@
+<h1 id="quantitative-big-imaging-course-2024">Quantitative Big Imaging Course 2024</h1>
+
+<p>Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2024 course at ETH Zurich, <a href="http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136177&amp;semkez=2022S&amp;lang=en">227-0966-00L</a>: Quantitative Big Imaging.</p>
+
+<h2 id="detailed-information">Detailed information</h2>
+<ul>
+  <li><a href="weeklyplan2024">Weekly lecture plan</a></li>
+  <li><a href="javascript:load_text('https://imaginglectures.github.io/WebTest/pages/exercises.txt','mainview')">Exercises</a></li>
+  <li><a href="javascript:load_text('https://imaginglectures.github.io/WebTest/pages/communication.txt','mainview')">Communication and Feedback</a></li>
+  <li><a href="javascript:load_text('https://imaginglectures.github.io/WebTest/pages/dependencies.txt','mainview')">Software dependencise</a></li>
+  <li><a href="javascript:load_text('https://imaginglectures.github.io/WebTest/pages/otherstuff.txt','mainview')">Other relevant material</a></li>
+</ul>
+
+<hr />
+
+<p>Please note that the Lecture Slides and PDF do not have active source codes; this is only available in the notebook version of the lecture notes. The lectures will be recorded and uploaded on the YouTube <a href="https://www.youtube.com/playlist?list=PLcDfeQH_rVda3rwtdP3lQe1B7KPkoIZtr">QBI 2024 Playlist</a>. The lectures are meant to be followed chronologically, and each has a corresponding hands-on exercise.</p>

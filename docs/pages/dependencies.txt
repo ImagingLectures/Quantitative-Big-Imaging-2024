@@ -1,0 +1,35 @@
+<h1 id="software-dependencies">Software Dependencies</h1>
+
+<p>The course, slides and exercises are primarily done using Python 3.11 and Jupyter Notebook. The binder/repo2docker-compatible environment](https://github.com/jupyter/repo2docker) can be found at <a href="https://github.com/kmader/Quantitative-Big-Imaging-2018/blob/master/binder/environment.yml">binder/environment.yml</a>. A full copy of the environment at the time the class was given is available in the <a href="https://github.com/kmader/Quantitative-Big-Imaging-2018/wiki/Full-Package-List">wiki</a> file. As many of these packages are frequently updated we have also made a copy of the docker image produced by repo2docker uploaded to Docker Hub at https://hub.docker.com/r/kmader/qbi2018/</p>
+
+<h2 id="all-lectures">All Lectures</h2>
+<p>The packages which are required for all lectures</p>
+<ul>
+  <li>numpy</li>
+  <li>matplotlib</li>
+  <li>scipy</li>
+  <li>scikit-image</li>
+  <li>scikit-learn</li>
+  <li>ipyvolume</li>
+</ul>
+
+<h2 id="machine-learning-packages">Machine Learning Packages</h2>
+<p>For machine learning and big data lectures a few additional packages are required</p>
+<ul>
+  <li>tensorflow</li>
+  <li>pytorch</li>
+  <li>opencv</li>
+  <li>dask</li>
+  <li>dask_ndmeasure</li>
+  <li>dask_ndmorph</li>
+  <li>dask_ndfilter</li>
+</ul>
+
+<h2 id="image-registration--medical-image-data">Image Registration / Medical Image Data</h2>
+<p>For the image registration lecture and medical image data</p>
+<ul>
+  <li>itk</li>
+  <li>SimpleITK</li>
+  <li>itkwidgets</li>
+</ul>
+

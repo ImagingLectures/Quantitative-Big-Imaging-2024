@@ -1,0 +1,16 @@
+<h2 id="final-examination">Final Examination</h2>
+<p>The final examination (as initially stated in the course material) will 
+be a 30-minute oral exam covering the material of the course and its applications 
+to real-world systems.</p>
+
+<p>The exam will cover all the lecture material, from Image Enhancement to Scaling Up. 
+Several example questions (not exhaustive) have been collected, which might be helpful 
+for preparation.</p>
+
+<p>For students who present a project, they will have the option to use their 
+project for some of the real systems-related questions (provided they have sent 
+their slides to <a href="mailto:anders.kaestner@psi.ch">Anders</a> after the 
+presentation and bring a printed-out copy to the exam including several image slices 
+if not already in the slides).</p>
+
+

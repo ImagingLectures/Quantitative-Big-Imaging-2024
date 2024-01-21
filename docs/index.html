@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <!-- Latest compiled and minified CSS -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link 
+      rel="stylesheet" 
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" 
+      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" 
+      crossorigin="anonymous">
+  </head>
+  
+  <script>
+
+
+    function load_text(src,dest) 
+    {
+      var file = new XMLHttpRequest();
+      file.open("GET", src, false);
+      file.send();
+
+      if (file.status === 200) 
+      {  // Makes sure it's found the file
+        text = file.responseText;
+        document.getElementById(dest).innerHTML = text;
+
+        // Add a new entry to the history stack
+      //  window.history.pushState({src: src, dest: dest}, '', '?src=' + encodeURIComponent(src));
+      }
+    }
+
+    // Listen for back/forward navigation
+    // window.onpopstate = function(event) {
+    //   if (event.state) {
+    //     // Re-load the text without adding a new history entry
+    //     load_text(event.state.src, event.state.dest);
+    //   }
+    // };
+
+    function show_text(text,dest) {
+      document.getElementById(dest).innerHTML = text;
+    }
+
+    function load_table(dest)
+    {
+      load_text('https://imaginglectures.github.io/WebTest/pages/weeklyplan.txt',dest);
+
+      const url = 'https://imaginglectures.github.io/WebTest/pages/weeklyplan.json';
+  
+      fetch(url)
+  .then(response => response.json())
+  .then(data => {
+    const tbody = document.getElementById('weeklyTable').getElementsByTagName('tbody')[0];
+
+    data.forEach(item => {
+      const row = tbody.insertRow();
+
+      const cellIndex = row.insertCell();
+      const cellIcon = row.insertCell();
+      const cellTitle = row.insertCell();
+      const cellDate = row.insertCell();
+      const cellNotebook = row.insertCell();
+      const cellSlides = row.insertCell();
+      const cellPdf = row.insertCell();
+      const cellVideos = row.insertCell();
+      const cellExercises = row.insertCell();
+
+      cellIndex.textContent = item.index;
+      cellIcon.innerHTML = "<img src='"+item.icon+"' alt='Part 2' height='40px'/>";
+      item.notebook.forEach(notebook => {
+        cellNotebook.innerHTML += "<a href='https://nbviewer.jupyter.org/github/"+notebook.link+"' target='_blank'><img src='https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg' alt='"+notebook.label+"' height='30px' /></a>&nbsp;&nbsp;";
+        cellSlides.innerHTML   += "<a href='https://nbviewer.jupyter.org/format/slides/github/"+notebook.link+"' target='_blank'><img src='figures/np_presentation.svg' alt='"+notebook.label+"' height='30px' /></a>&nbsp;&nbsp;";
+      });
+      cellTitle.textContent = item.title;
+      cellDate.textContent = item.date;
+      if (item.pdf != "")
+        cellPdf.innerHTML = "<a href='"+item.pdf+"'><img src='figures/np_pdf_749513_FF0000.svg' height='40px' />";
+
+      item.videos.forEach(video => {
+        cellVideos.innerHTML += "<a href='"+video.link+"' target='_blank'><img src='"+video.icon+"'' alt='"+video.label+"' height='30px' /></a>&nbsp;&nbsp;";
+      }); 
+      
+      if (item.exercises != "")
+        cellExercises.innerHTML = "<a href='"+item.exercises+"''><img src='figures/np_work-from-home_3742622_000000.svg' height='40px' /></a>";
+      ;
+    });
+  })
+  .catch(error => console.error('Error:', error));
+    }
+  </script>
+
+  <body>   
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">QBI 2024</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#" onclick="load_text('https://imaginglectures.github.io/WebTest/pages/maintext.txt','mainview')">Home</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Details
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li><a class="dropdown-item" href="#" onclick="load_table('mainview')">Weekly lecture plan</a></li>
+                <li><a class="dropdown-item" href="#" onclick="load_text('https://imaginglectures.github.io/WebTest/pages/exercises.txt','mainview')">Exercises</a></li>
+                <li><a class="dropdown-item" href="#" onclick="load_text('https://imaginglectures.github.io/WebTest/pages/communication.txt','mainview')">Communication and feedback</a></li>
+                <!-- <li><hr class="dropdown-divider"></li> -->
+                <li><a class="dropdown-item" href="#" onclick="load_text('https://imaginglectures.github.io/WebTest/pages/dependencies.txt','mainview')">Software dependencies</a></li>
+                <li><a class="dropdown-item" href="#" onclick="load_text('https://imaginglectures.github.io/WebTest/pages/otherstuff.txt','mainview')">Other relevant information</a></li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#" onclick="load_text('https://imaginglectures.github.io/WebTest/pages/learningobjectives.txt','mainview')">Learning objectives</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#" onclick="load_text('https://imaginglectures.github.io/WebTest/pages/targetaudience.txt','mainview')">Target audience</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#" onclick="load_text('https://imaginglectures.github.io/WebTest/pages/projects.txt','mainview')">Projects</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#" onclick="load_text('https://imaginglectures.github.io/WebTest/pages/finalexam.txt','mainview')">Final exam</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Previous years
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li><a class="dropdown-item" href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2020/" >2020</a></li>
+                <li><a class="dropdown-item" href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2021/" >2021</a></li>
+                <li><a class="dropdown-item" href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2022/" >2022</a></li>
+                <li><a class="dropdown-item" href="https://imaginglectures.github.io/Quantitative-Big-Imaging-2023/" >2023</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+ 
+
+
+  <!-- The main container -->
+  <div class="container">
+    <div class="mt-4 p-5 bg-light rounded" id="mainview">
+      <h1>Welcome</h1>
+      <p>Welcome text</p>
+    </div>
+
+  </div>
+    <!-- The footer container -->
+  <div class="container">
+    <div class="mt-4 p-5 bg-light text-white rounded">
+        <p>(c) 2024, Anders Kaestner</p>
+        <p><a href="https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024">Github repository</a></p>
+    </div>
+  </div>
+
+  <script>
+    //show_text("<h1>Hej hopp</h1><p>Some text</p>","mainview");
+    document.onload = load_text("https://imaginglectures.github.io/WebTest/pages/maintext.txt","mainview");
+  </script>
+  
+
+  <!-- Need to have JQuery and Javascript for DropDown Actions to work -->
+
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js" 
+    integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" 
+    crossorigin="anonymous">
+  </script>
+  <!-- Latest compiled and minified JavaScript -->  
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" 
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" 
+    crossorigin="anonymous">
+  </script>
+  <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" 
+    integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" 
+    crossorigin="anonymous">
+  </script> -->
+
+</body>
+</html>
