@@ -86,11 +86,11 @@ function load_project_table(dest)
     data.forEach(item => 
     {
         dest.innerHTML += "<h3>"+item.title+"</h3>";
-        dest.innerHTML += "<p>"+item.description+"</p>";
-        dest.innerHTML += "<p><b>Task:</b> "+item.task+"</p>";
-        dest.innerHTML += "<p><b>Methods:</b> "+item.methods+"</p>";
-        dest.innerHTML += "<p><b>Data:</b> "+item.data+"</p>";
-        dest.innerHTML += "<p><b>Contact:</b> "+item.contact+"</p>";
+        // dest.innerHTML += "<p>"+item.description+"</p>";
+        // dest.innerHTML += "<p><b>Task:</b> "+item.task+"</p>";
+        // dest.innerHTML += "<p><b>Methods:</b> "+item.methods+"</p>";
+        // dest.innerHTML += "<p><b>Data:</b> "+item.data+"</p>";
+        // dest.innerHTML += "<p><b>Contact:</b> "+item.contact+"</p>";
         // if (item.image != "")
         // {
         //     dest.innerHTML += "<img src='"+item.image+"' alt='"+item.title+"' height='100px'/>";
