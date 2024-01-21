@@ -82,7 +82,6 @@ function load_project_table(dest)
     fetch(url)
       .then(response => response.json())
       .then(data => {
-    // const tbody = document.getElementById('projectTable').getElementsByTagName('tbody')[0];
 
     data.forEach(item => 
     {
@@ -92,10 +91,10 @@ function load_project_table(dest)
         dest.innerHTML += "<p><b>Methods:</b> "+item.methods+"</p>";
         dest.innerHTML += "<p><b>Data:</b> "+item.data+"</p>";
         dest.innerHTML += "<p><b>Contact:</b> "+item.contact+"</p>";
-        if (item.image != "")
-        {
-            dest.innerHTML += "<img src='"+item.image+"' alt='"+item.title+"' height='100px'/>";
-        }
+        // if (item.image != "")
+        // {
+        //     dest.innerHTML += "<img src='"+item.image+"' alt='"+item.title+"' height='100px'/>";
+        // }
 
     })
     .catch(error => console.error('Error:', error));
