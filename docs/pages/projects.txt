@@ -6,7 +6,3 @@ projects like master’s or PhD projects. Please get in touch with
 <a href="anders.kaestner@psi.ch">Anders Kaestner</a> in advance if you choose to define your project.</p>
 
 <h2>Project suggestions</h2>
-
-<script>
-  load_project_table('mainview');
-</script>
