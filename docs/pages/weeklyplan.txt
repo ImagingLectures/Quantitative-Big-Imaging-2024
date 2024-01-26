@@ -1,4 +1,7 @@
 <h1 >QBI 2024 - Weekly Plan </h1>
+
+<p>Please note that the Lecture Slides and PDF do not have active source codes; this is only available in the notebook version of the lecture notes. The lectures will be recorded and uploaded on the YouTube <a href="https://www.youtube.com/playlist?list=PLcDfeQH_rVda3rwtdP3lQe1B7KPkoIZtr">QBI 2024 Playlist</a>. The lectures are meant to be followed chronologically, and each has a corresponding hands-on exercise.</p>
+
 <table class="table table-bordered" id="weeklyTable" width="1400px">
   <thead class="thead-light">
     <tr>

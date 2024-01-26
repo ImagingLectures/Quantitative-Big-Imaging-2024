@@ -7,10 +7,8 @@
   <li><a href="javascript:load_table('mainview')">Weekly lecture plan</a></li>
   <li><a href="javascript:load_text('https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/pages/exercises.txt','mainview')">Exercises</a></li>
   <li><a href="javascript:load_text('https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/pages/communication.txt','mainview')">Communication and Feedback</a></li>
-  <li><a href="javascript:load_text('https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/pages/dependencies.txt','mainview')">Software dependencise</a></li>
+  <li><a href="javascript:load_text('https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/pages/dependencies.txt','mainview')">Software dependencies</a></li>
   <li><a href="javascript:load_text('https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/pages/otherstuff.txt','mainview')">Other relevant material</a></li>
 </ul>
 
-<hr />
-
-<p>Please note that the Lecture Slides and PDF do not have active source codes; this is only available in the notebook version of the lecture notes. The lectures will be recorded and uploaded on the YouTube <a href="https://www.youtube.com/playlist?list=PLcDfeQH_rVda3rwtdP3lQe1B7KPkoIZtr">QBI 2024 Playlist</a>. The lectures are meant to be followed chronologically, and each has a corresponding hands-on exercise.</p>
+<img src='https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/pages/figures/iconsnail.svg' alt='Lecture icons' height='200px'/>
