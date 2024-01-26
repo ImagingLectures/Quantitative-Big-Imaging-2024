@@ -11,4 +11,4 @@
   <li><a href="javascript:load_text('https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/pages/otherstuff.txt','mainview')">Other relevant material</a></li>
 </ul>
 
-<img src='https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/pages/figures/iconsnail.svg' alt='Lecture icons' height='200px'/>
+<img src='https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/figures/iconsnail.svg' alt='Lecture icons' height='200px'/>
