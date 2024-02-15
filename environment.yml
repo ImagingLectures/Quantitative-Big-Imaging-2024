@@ -30,14 +30,14 @@ dependencies:
   - tqdm
   - keras
   - jupyter
-  - jupyter_contrib_nbextensions
-  - jupyter_nbextensions_configurator
+  # - jupyter_contrib_nbextensions
+  # - jupyter_nbextensions_configurator
   - graphviz
   - python-graphviz 
   - cfitsio
   - bokeh
   - astropy=5.0
-  - rise
+  # - rise
   - pywavelets
   - param 
   - pyqtgraph 
