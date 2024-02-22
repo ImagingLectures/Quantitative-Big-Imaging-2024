@@ -11,13 +11,13 @@
     "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/lecturenotes/QBI-Lecture01-Introduction.pdf",
     "videos":[{
                 "label":"Part 1",
-                "link":"https://youtu.be/2_6gY-b3Bvc",
-                "icon":"figures/YouTube_OldRecording.svg"
+                "link":"https://youtu.be/rNzaBkrDwAI",
+                "icon":"figures/YouTube.svg"
             },
             {
                 "label":"Part 2",       
-                "link":"https://youtu.be/2v4B7dW0Ejk",
-                "icon":"figures/YouTube_OldRecording.svg"
+                "link":"https://youtu.be/CIRpaqRyhXU",
+                "icon":"figures/YouTube.svg"
             }],
     "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024/tree/main/Exercises/01-Images"
 },
@@ -68,7 +68,7 @@
 {
     "index":4,
     "icon":"figures/np_segmentation_4159870_000000.svg",
-    "title":"Basic Segmentation, Discrete Binary Structures (Pre-recorded lecture)",
+    "title":"Basic Segmentation, Discrete Binary Structures",
     "date":"14 Mar",
     "notebook":[{
         "label":"Part 1",
@@ -189,7 +189,7 @@
 {
     "index":8,
     "icon":"figures/np_statistics_4108630_000000.svg",
-    "title":"Statistics, Prediction, and Reproducibility",
+    "title":"Statistics, Prediction, and Reproducibility (prerecorded lecture)",
     "date":"18 Apr",
     "notebook":[{
         "label":"Part 1",
