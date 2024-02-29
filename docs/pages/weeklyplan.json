@@ -34,12 +34,12 @@
     "videos":[{
                 "label":"Part 1",
                 "link":"https://youtu.be/g0doTWAcprI",
-                "icon":"figures/YouTube_Recording.svg"
+                "icon":"figures/YouTube.svg"
             },
             {
                 "label":"Part 2",       
-                "link":"https://youtu.be/z__01w7IrJQ",
-                "icon":"figures/YouTube_OldRecording.svg"
+                "link":"https://youtu.be/98W7m02zktw",
+                "icon":"figures/YouTube.svg"
             }],
     "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024/tree/main/Exercises/02-Augmentation"
 },
