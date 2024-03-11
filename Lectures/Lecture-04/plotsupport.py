@@ -30,7 +30,7 @@ def magnifyRegion(img,roi, figsize, cmap='gray',vmin=0,vmax=0,title='Original') 
     ax[1].set_title('Magnified ROI')
 
     
-def showHitMap(gt,pr,ax=None) :
+def showHitMap(gt,pr,ax=None, annot_kws = None) :
     if ax is None :
         fig, ax = plt.subplots(1,2,figsize=(12,4))
         
@@ -46,7 +46,7 @@ def showHitMap(gt,pr,ax=None) :
     ax[1].set_title('Hit map')
     
     cmat = confusion_matrix(gt.ravel(), pr.ravel(), normalize='all')
-    heatmap(cmat, annot=True,ax=ax[0]); ax[0].set_title('Confusion matrix');
+    heatmap(cmat, annot=True,ax=ax[0], annot_kws=annot_kws); ax[0].set_title('Confusion matrix');
     ax[0].set_xticklabels(['Negative','Positive']);
     ax[0].set_yticklabels(['Negative','Positive']);
     ax[0].set_ylabel('Ground Truth')
@@ -87,7 +87,7 @@ def visualize_normalization(img, ob, dc,norm) :
     ax3.imshow(ob,clim=[mo-2*so,mo+2*so],cmap='gray')
     ax3.set_xticks([])
     ax3.set_yticks([])
-    ax3.set_title('Illumination')
+    ax3.set_title('Source profile')
     
 
     ax4.imshow(dc,clim=[md-2*sd,md+2*sd],cmap='gray')
