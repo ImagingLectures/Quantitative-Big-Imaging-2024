@@ -87,7 +87,7 @@ def visualize_normalization(img, ob, dc,norm) :
     ax3.imshow(ob,clim=[mo-2*so,mo+2*so],cmap='gray')
     ax3.set_xticks([])
     ax3.set_yticks([])
-    ax3.set_title('Illumination')
+    ax3.set_title('Source profile')
     
 
     ax4.imshow(dc,clim=[md-2*sd,md+2*sd],cmap='gray')
