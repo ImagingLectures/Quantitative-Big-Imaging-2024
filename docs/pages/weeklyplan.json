@@ -81,22 +81,12 @@
     "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/lecturenotes/QBI-Lecture04-BasicSegmentation.pdf",
     "videos":[{
                 "label":"Part 1",
-                "link":"https://youtu.be/dx9Bx80BbCE",
-                "icon":"figures/YouTube_OldRecording.svg"
+                "link":"https://youtu.be/bdjtVRG23to",
+                "icon":"figures/YouTube.svg"
             },
             {
                 "label":"Part 2",       
                 "link":"https://youtu.be/Zvqo_FlEaDs",
-                "icon":"figures/YouTube_OldRecording.svg"
-            },
-            {
-                "label":"Part 3",       
-                "link":"https://youtu.be/Pdt0b-FTR4E",
-                "icon":"figures/YouTube_OldRecording.svg"
-            },
-            {
-                "label":"Part 4",       
-                "link":"https://youtu.be/4qCVeL33y-Y",
                 "icon":"figures/YouTube_OldRecording.svg"
             }],
     "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024/blob/main/Exercises/04-Segmentation"
