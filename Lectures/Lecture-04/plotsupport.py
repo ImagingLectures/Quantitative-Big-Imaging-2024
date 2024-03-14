@@ -2,11 +2,7 @@ import matplotlib.pyplot as plt
 from matplotlib.colors import ListedColormap
 import matplotlib.colors as colors
 from sklearn.metrics import confusion_matrix
-<<<<<<< HEAD
 # from seaborn import heatmap
-=======
-#from seaborn import heatmap
->>>>>>> fcb5f43a48534618be45283b593f6f9c2961b093
 import numpy as np
 
 def buildCMap(plots) :
@@ -17,28 +13,16 @@ def buildCMap(plots) :
         
     return ListedColormap(cmaplist)
 
-<<<<<<< HEAD
 def heatmap(img, ax=None, cmap='inferno', fontsize=14, precision=3) :
     if ax is None :
         _,ax=plt.subplots(1)
         
     ax.imshow(img,cmap=cmap,origin='upper')
-=======
-def heat_map(img, ax=None, cmap='plasma', fontsize=14) :
-    if ax is None :
-        _,ax=plt.subplots(1)
-        
-    ax.imshow(img,cmap=cmap,origin='lower')
->>>>>>> fcb5f43a48534618be45283b593f6f9c2961b093
     ax.set(xticks=np.arange(0,img.shape[0]),yticks=np.arange(0,img.shape[0]))
     props = dict(boxstyle='round', facecolor='lightgray', alpha=1) 
     for i in range(img.shape[1]):
         for j in range(img.shape[0]):
-<<<<<<< HEAD
             text = ax.text(j, i, "{0:0.{1}f}".format(img[i, j],precision),
-=======
-            text = ax.text(j, i, "{0:0.3f}".format(img[i, j]),
->>>>>>> fcb5f43a48534618be45283b593f6f9c2961b093
                            ha="center", va="center", fontsize=fontsize, color="k",bbox=props)
 
 def magnifyRegion(img,roi, figsize, cmap='gray',vmin=0,vmax=0,title='Original') :
@@ -74,13 +58,8 @@ def showHitMap(gt,pr,ax=None, annot_kws = None) :
     ax[1].set_title('Hit map')
     
     cmat = confusion_matrix(gt.ravel(), pr.ravel(), normalize='all')
-<<<<<<< HEAD
 #     heatmap(cmat, annot=True,ax=ax[0], annot_kws=annot_kws); ax[0].set_title('Confusion matrix');
     heatmap(cmat, ax=ax[0]); ax[0].set_title('Confusion matrix');
-=======
-    #heatmap(cmat, annot=True,ax=ax[0], annot_kws=annot_kws); ax[0].set_title('Confusion matrix');
-    heat_map(cmat,ax=ax[0]); ax[0].set_title('Confusion matrix');
->>>>>>> fcb5f43a48534618be45283b593f6f9c2961b093
     ax[0].set_xticklabels(['Negative','Positive']);
     ax[0].set_yticklabels(['Negative','Positive']);
     ax[0].set_ylabel('Ground Truth')
