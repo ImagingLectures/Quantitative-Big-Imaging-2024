@@ -1,0 +1,22 @@
+<h1 >Data sets</h1>
+
+<p>Please note that the Lecture Slides and PDF do not have active source codes; this is only available in the notebook version of the lecture notes. The lectures will be recorded and uploaded on the YouTube <a href="https://www.youtube.com/playlist?list=PLcDfeQH_rVda3rwtdP3lQe1B7KPkoIZtr">QBI 2024 Playlist</a>. The lectures are meant to be followed chronologically, and each has a corresponding hands-on exercise.</p>
+
+<table class="table table-bordered" id="weeklyTable" width="1400px">
+  <thead class="thead-light">
+    <tr>
+      <th style="width:3em">#</th>
+      <th style="width:60px">Icon</th>
+      <th style="width:65em">Title</th>
+      <th style="width:8em">Date</th>
+      <th style="width:12em">Notebook</th>
+      <th style="width:12em">Slides</th>
+      <th style="width:12em">PDF</th>
+      <th style="width:12em">Videos</th>
+      <th style="width:12em">Exercises</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Table data will be inserted here -->
+  </tbody>
+</table>
