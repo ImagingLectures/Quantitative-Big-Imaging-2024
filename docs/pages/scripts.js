@@ -75,6 +75,39 @@ function load_table(dest)
   .catch(error => console.error('Error:', error));
 }
 
+
+function load_dataset_table(dest)
+{
+    load_text('https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/pages/datasets.txt',dest);
+
+    const url = 'https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/pages/datasets.json';
+
+    fetch(url)
+      .then(response => response.json())
+      .then(data => {
+    const tbody = document.getElementById('datasetTable').getElementsByTagName('tbody')[0];
+
+    data.forEach(item => 
+    {
+      const row = tbody.insertRow();
+
+      const cellIndex        = row.insertCell();
+      const cellTitle        = row.insertCell();
+      const cellDescription  = row.insertCell();
+      const cellLicense      = row.insertCell();
+      const cellDate         = row.insertCell();
+      
+      cellIndex.textContent       = item.index;
+      cellTitle.innerHTML         = "<a href='"+item.href+"'>"+item.title+"</a>";
+      cellDescription.textContent = item.description; 
+      cellLicense.textContent     = item.license; 
+      cellDate.textContent        = item.date;
+      
+    });
+  })
+  .catch(error => console.error('Error:', error));
+}
+
 function load_project_table(dest)
 {
   load_text('https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/pages/projects.txt',dest);
