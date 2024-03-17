@@ -8,7 +8,6 @@
       <th style="width:100em">Title</th>
       <th style="width:100em">Description</th>
       <th style="width:15em">License</th>
-      <th style="width:12em">Link</th>
       <th style="width:10em">Date</th>
     </tr>
   </thead>
