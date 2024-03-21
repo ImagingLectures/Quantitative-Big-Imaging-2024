@@ -13,11 +13,11 @@ def buildCMap(plots) :
         
     return ListedColormap(cmaplist)
 
-def heatmap(img, ax=None, cmap='magma', fontsize=14, precision=3) :
+def heatmap(img, ax=None, cmap='inferno', fontsize=14, precision=3) :
     if ax is None :
         _,ax=plt.subplots(1)
         
-    ax.imshow(img,cmap=cmap,origin='lower')
+    ax.imshow(img,cmap=cmap,origin='upper')
     ax.set(xticks=np.arange(0,img.shape[0]),yticks=np.arange(0,img.shape[0]))
     props = dict(boxstyle='round', facecolor='lightgray', alpha=1) 
     for i in range(img.shape[1]):
