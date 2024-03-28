@@ -134,13 +134,13 @@
     "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/lecturenotes/QBI-Lecture06-ShapeAnalysis.pdf",
     "videos":[{
                 "label":"Part 1",
-                "link":"https://youtu.be/Q7SLCJlL9gY",
-                "icon":"figures/YouTube_OldRecording.svg"
+                "link":"https://youtu.be/JT23vzuJRoE",
+                "icon":"figures/YouTube.svg"
             },
             {
                 "label":"Part 2",       
-                "link":"https://youtu.be/tcOkVr_jVeg",
-                "icon":"figures/YouTube_OldRecording.svg"
+                "link":"https://youtu.be/bnULanm9ypI",
+                "icon":"figures/YouTube.svg"
             }],
     "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024/tree/main/Exercises/06-Shapes"
 },
