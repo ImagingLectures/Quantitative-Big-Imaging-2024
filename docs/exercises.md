@@ -9,7 +9,7 @@ If you use colab, kaggle or mybinder you won't need python on your own machine b
 1. Download the course from github as a zip file
 1. Extract the zip file
 1. Open a terminal (or command prompt on windows)
-1. Go to the root folder inside the course directory (something like: `Downloads/Quantitative-Big-Imaging-2022-master`)
+1. Go to the root folder inside the course directory (something like: `Downloads/Quantitative-Big-Imaging-2024-master`)
 1. Install the environment
 1. `conda env create -f environment.yml -n qbi2022`
 1. Activate the environment `conda activate qbi2022` or `activate qbi2022`
@@ -19,14 +19,14 @@ If you use colab, kaggle or mybinder you won't need python on your own machine b
 
 1. Follow the instructions to [install git](https://www.atlassian.com/git/tutorials/install-git).
 2. Clone the lecture repository.
-  1. Go to the github page for [QBI lecture material](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022)
+  1. Go to the github page for [QBI lecture material](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024)
   2. Click the clone button ![clone button](figures/clonebutton.png)
   3. Copy the path ![clone dialog](figures/clonedialog.png)
   4. Windows: open 'git bash', MacOS/Linux: open a terminal.
   5. Go to the folder where you want to place the lecture material.
   6. Type: ```git clone <paste the repository path here> ```, press enter and wait...
   
-Now you should have a folder called Quantitative-Big-Imaging-2022 at location where you called the clone.
+Now you should have a folder called Quantitative-Big-Imaging-2024 at location where you called the clone.
 
 ## Get the latest version
 ### Update from git with the latest changes

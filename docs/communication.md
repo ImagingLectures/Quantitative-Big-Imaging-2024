@@ -1,7 +1,7 @@
 
 # Communication and feedback
 ## Feedback (as much as possible)
- - Create an [issue](https://github.com/imaginglectures/Quantitative-Big-Imaging-2022/issues) (on the group site that everyone can see and respond to, requires a Github account)
+ - Create an [issue](https://github.com/imaginglectures/Quantitative-Big-Imaging-2024/issues) (on the group site that everyone can see and respond to, requires a Github account)
  - Or send direct email to [Anders](mailto:anders.kaestner@psi.ch)
 
 ## Slack
