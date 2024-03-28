@@ -7,9 +7,9 @@
 - Start Jupyter
 
 ## Notebooks / Python
-- [Python Fossil Segmentation Exercises](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/04-Segmentation/04-Fossil.ipynb)
-    - [Partial solution, with the code provided](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/04-Segmentation/04-Fossil_guided.ipynb). The last part with the nerve is still up to you to solve.
-- [Python Nerve Segmentation Exercises](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/04-Segmentation/04-Exercises.ipynb).
+- [Python Fossil Segmentation Exercises](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024/blob/main/Exercises/04-Segmentation/04-Fossil.ipynb)
+    - [Partial solution, with the code provided](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024/blob/main/Exercises/04-Segmentation/04-Fossil_guided.ipynb). The last part with the nerve is still up to you to solve.
+- [Python Nerve Segmentation Exercises](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024/blob/main/Exercises/04-Segmentation/04-Exercises.ipynb).
 - 
 # Further exercises if you want more
 ## Kaggle
@@ -20,5 +20,5 @@
 
 ## Hard Exercises
 
- - [Cell Segmentation on Kaggle](https://www.kaggle.com/gaborvecsei/basic-pure-computer-vision-segmentation-lb-0-229) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2019/master?filepath=Kaggle_Competitions/CV_CellSegmentation.ipynb)
+ - [Cell Segmentation on Kaggle](https://www.kaggle.com/gaborvecsei/basic-pure-computer-vision-segmentation-lb-0-229) or [binder](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2024/master?filepath=Kaggle_Competitions/CV_CellSegmentation.ipynb)
 

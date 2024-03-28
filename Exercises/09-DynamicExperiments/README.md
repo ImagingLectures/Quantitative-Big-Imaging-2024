@@ -2,7 +2,7 @@
 # Explore the basics of registration
 ### Registration 101
 I recommend working through this tutorial
-- [![slides](https://img.shields.io/badge/Registration-Tutorial-blue.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2022/main?filepath=Exercises/09-DymanicExperiments/Registration101.ipynb) [Handout](http://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Exercises/09-DynamicExperiments/Registration101.ipynb)
+- [![slides](https://img.shields.io/badge/Registration-Tutorial-blue.svg)](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2024/main?filepath=Exercises/09-DymanicExperiments/Registration101.ipynb) [Handout](http://nbviewer.jupyter.org/github/ImagingLectures/Quantitative-Big-Imaging-2024/blob/main/Exercises/09-DynamicExperiments/Registration101.ipynb)
 
 ### Kaggle exercises 
 Look through the exercises. You would spend quite some time doing all but there is a lot to learn by only reading and observing.
