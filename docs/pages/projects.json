@@ -3,7 +3,7 @@
         "index":1,
         "title":"Micro-plastics in marine bio-constructs",
         "description": "Micro-plastics are a growing concern in the marine environment. This project will investigate the presence of micro-plastics in marine bio-constructs, such as corals and sponges, and their potential impact on the health of these organisms.",
-        "data":"Neutron and X-ray tomography volumes of marine bio-constructs and micro-plastics. A control and loaded",
+        "data":"Neutron and X-ray tomography volumes of marine bio-constructs and micro-plastics. A control and an piece which was exposed to micro-plastics.",
         "task":"Segmentation of the bio-constructs and micro-plastics, and quantification of the micro-plastics in the bio-constructs. Determine if there is a difference between the control and loaded samples.",
         "methods":"Filtering, Registration, Segmentation, quantification, statistics",
         "image":"images/microplastic.png",
@@ -11,12 +11,12 @@
     },
     {
         "index":2,
-        "title":"Fun stuff",
-        "description": "do it",
-        "data":"",
-        "task":"",
-        "methods":"",
-        "image":"",
+        "title":"Investigating the impact of sourdough culture on the bubble development in baked bread",
+        "description": "The flour used to set the sourdough affects which culture of bacteria and yeast cells to grow in the mother dough. This in turn has an impact on how the bread dough rises when the bread is backed. In this project small breads were baked using sourdough started on four different flour types. These buns were scanned using x-ray tomography.",
+        "data":"Tomography data of 72 buns, 3 buns stacked together in 24 volumes",
+        "task":"To find relevant information from the buns to tell if there is a shape based difference between the dough culteres.",
+        "methods":"(Filtering), Segmentation, Labelling, quantification of region properties, statistical infernce. ",
+        "image":"bun.png",
         "contact":"Anders Kaestner"
-    }
+    },
 ]
