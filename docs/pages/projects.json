@@ -19,4 +19,14 @@
         "image":"bun.png",
         "contact":"Anders Kaestner"
     },
+    {
+        "index":3,
+        "title":"Comparing mosture distribution of cartilage",
+        "description": "The condition of cartilage depends on the moisture gradient in the cartilage",
+        "data":"Neutron and X-ray tomography of cartilage samples",
+        "task":"To find relevant information from the buns to tell if there is a shape based difference between the dough culteres.",
+        "methods":"(Filtering), Segmentation, Extraction of moisture profiles, statistical infernce. ",
+        "image":"cartilage.png",
+        "contact":"Anders Kaestner"
+    }
 ]
