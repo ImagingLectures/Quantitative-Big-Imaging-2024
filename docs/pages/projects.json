@@ -16,7 +16,7 @@
         "data":"Tomography data of 72 buns, 3 buns stacked together in 24 volumes",
         "task":"To find relevant information from the buns to tell if there is a shape based difference between the dough culteres.",
         "methods":"(Filtering), Segmentation, Labelling, quantification of region properties, statistical infernce. ",
-        "image":"bun.png",
+        "image":"images/bun.png",
         "contact":"Anders Kaestner"
     },
     {
@@ -26,7 +26,7 @@
         "data":"Neutron and X-ray tomography of cartilage samples",
         "task":"To find relevant information from the buns to tell if there is a shape based difference between the dough culteres.",
         "methods":"(Filtering), Segmentation, Extraction of moisture profiles, statistical infernce. ",
-        "image":"cartilage.jpg",
+        "image":"images/cartilage.jpg",
         "contact":"Anders Kaestner"
     }
 ]
