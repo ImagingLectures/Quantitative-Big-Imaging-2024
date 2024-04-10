@@ -132,6 +132,7 @@ function load_project_table(dest)
             document.getElementById(dest).innerHTML += "<p><b>Methods:</b> "+item.methods+"</p>";
             document.getElementById(dest).innerHTML += "<p><b>Data:</b> "+item.data+"</p>";
             document.getElementById(dest).innerHTML += "<p><b>Contact:</b> "+item.contact+"</p>";
+            document.getElementById(dest).innerHTML += "<hr/>";
         })
         .catch(error => console.error('Error:', error));
     });
