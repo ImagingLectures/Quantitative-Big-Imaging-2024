@@ -89,7 +89,7 @@ function load_dataset_table(dest)
 
     data.forEach(item => 
     {
-        console.logging(item);
+      console.log(item);
       const row = tbody.insertRow();
 
       const cellIndex        = row.insertCell();
