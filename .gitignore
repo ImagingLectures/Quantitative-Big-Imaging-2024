@@ -106,3 +106,8 @@ venv.bak/
 
 # Mac index files
 .DS_Store
+
+*invalid_urls.json
+
+*.tif
+*.tiff

@@ -1,14 +1,14 @@
 ## Image enhancement exercises
 - For all exercises it is important to take the starting data
-  <!-- [Starting Data](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2020/blob/master/Ex2/matlab.zip?raw=true)-->
-  [Starting Data](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2020/tree/master/Exercises/03-files) 
+  <!-- [Starting Data](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024/blob/master/Ex2/matlab.zip?raw=true)-->
+  [Starting Data](https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024/tree/master/Exercises/03-files) 
 
 #### Binder (Python)
 For students experienced in Python there are the binder Notebooks
 
-  - Demonstration [view](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/03-Demonstration.ipynb), [binder](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Exercises/03-Demonstration.ipynb), or [colab](https://colab.research.google.com/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/03-Demonstration.ipynb)
-  - Exercises 1-3 (Exercises/02-files/Exercises1-3) [view](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/03-files/Exercises1-3.ipynb), [binder](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Exercises/03-files/Exercises1-3.ipynb), or [colab](https://colab.research.google.com/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/03-files/Exercises1-3.ipynb)
-  - Exercises 4 (Exercises/02-files/Exercise4) [view](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/03-files/Exercise4.ipynb), [binder](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2020/master?filepath=Exercises/03-files/Exercise4.ipynb), or [colab](https://colab.research.google.com/github/imaginglectures/Quantitative-Big-Imaging-2020/blob/master/Exercises/03-files/Exercise4.ipynb)
+  - Demonstration [view](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2024/blob/master/Exercises/03-Demonstration.ipynb), [binder](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2024/master?filepath=Exercises/03-Demonstration.ipynb), or [colab](https://colab.research.google.com/github/imaginglectures/Quantitative-Big-Imaging-2024/blob/master/Exercises/03-Demonstration.ipynb)
+  - Exercises 1-3 (Exercises/02-files/Exercises1-3) [view](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2024/blob/master/Exercises/03-files/Exercises1-3.ipynb), [binder](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2024/master?filepath=Exercises/03-files/Exercises1-3.ipynb), or [colab](https://colab.research.google.com/github/imaginglectures/Quantitative-Big-Imaging-2024/blob/master/Exercises/03-files/Exercises1-3.ipynb)
+  - Exercises 4 (Exercises/02-files/Exercise4) [view](http://nbviewer.jupyter.org/format/slides/github/imaginglectures/Quantitative-Big-Imaging-2024/blob/master/Exercises/03-files/Exercise4.ipynb), [binder](http://mybinder.org/v2/gh/imaginglectures/quantitative-big-imaging-2024/master?filepath=Exercises/03-files/Exercise4.ipynb), or [colab](https://colab.research.google.com/github/imaginglectures/Quantitative-Big-Imaging-2024/blob/master/Exercises/03-files/Exercise4.ipynb)
    - Setup [Jupyter on the D61 Machines](https://github.com/kmader/Quantitative-Big-Imaging-2017/wiki/Installing-Python-and-Jupyter-Notebook-on-the-ETZ-D61-Machines)
 
 #### Kaggle (Python)
@@ -20,5 +20,5 @@ For students experienced in Python there are the binder Notebooks
  #### KNIME
 
  - The KNIME or workflow based exercises are here
- - [KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2019/blob/master/Exercises/03-Description.md)
+ - [KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2024/blob/master/Exercises/03-Description.md)
 

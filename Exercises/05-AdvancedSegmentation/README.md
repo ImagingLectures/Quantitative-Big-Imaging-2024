@@ -8,9 +8,9 @@
 
 ### Python
 
- - [Python Exercises](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2022/blob/master/Exercises/05-AdvancedSegmentation/05-Exercises.ipynb)
+ - [Python Exercises](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2024/blob/master/Exercises/05-AdvancedSegmentation/05-Exercises.ipynb)
  
- - [Python Towards Deep Learning](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2022/blob/master/Exercises/05-AdvancedSegmentation/05-CNN.ipynb)
+ - [Python Towards Deep Learning](http://nbviewer.jupyter.org/github/imaginglectures/Quantitative-Big-Imaging-2024/blob/master/Exercises/05-AdvancedSegmentation/05-CNN.ipynb)
 
 ### Kaggle
 There is a collection of Kaggle exercises for those of you who want further tasks
