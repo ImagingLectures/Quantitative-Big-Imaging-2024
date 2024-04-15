@@ -188,13 +188,18 @@
     "pdf":"https://imaginglectures.github.io/Quantitative-Big-Imaging-2024/lecturenotes/QBI-Lecture08-Statistics.pdf",
     "videos":[{
                 "label":"Part 1",
-                "link":"https://youtu.be/KyFKf5kvQSQ",
-                "icon":"figures/YouTube_OldRecording.svg"
+                "link":"https://youtu.be/TIOXzGdZHQQ",
+                "icon":"figures/YouTube.svg"
             },
             {
                 "label":"Part 2",       
-                "link":"https://youtu.be/jc8WpGCuaD8",
-                "icon":"figures/YouTube_OldRecording.svg"
+                "link":"https://youtu.be/xHPxXCgbmlQ",
+                "icon":"figures/YouTube.svg"
+            },
+            {
+                "label":"Part 3",       
+                "link":"https://youtu.be/e7_hZIoFGc4",
+                "icon":"figures/YouTube.svg"
             }],
     "exercises":"https://github.com/ImagingLectures/Quantitative-Big-Imaging-2024/tree/main/Exercises/08-Statistics"
 },
