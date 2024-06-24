@@ -1,0 +1,18 @@
+<h1 >Data sets</h1>
+<p>This is a collection of data sets and link collections that can be useful in your projects.</p>
+
+<table class="table table-bordered" id="datasetTable" width="1400px">
+  <thead class="thead-light">
+    <tr>
+      <th style="width:3em">#</th>
+      <th style="width:100em">Title</th>
+      <th style="width:100em">Description</th>
+      <th style="width:15em">License</th>
+      <th style="width:10em">Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Table data will be inserted here -->
+  </tbody>
+</table>
+
