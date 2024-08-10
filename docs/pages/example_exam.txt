@@ -1,0 +1,163 @@
+<h1>Exam questions QBI</h1>
+<h2>Exam format</h2>
+The QBI exam is oral, but you will be provided with pen and paper in case you need to draw figures to better explain your answers. The duration is 30 minutes. If you decided to make a project, we will use the project as a starting point for the exam and extend with questions that were not touched by the project. Below you find a collection of questions that may come during the exam.
+
+During the exam you may be presented with an image get the task to outline how you would approach the analysis. Questions like the ones below will be accompanying your description to guide you or sometimes drill deeper into some specific part. 
+
+There will <b>not</b> be any python questions during the exam.
+
+<h2>Exam questions</h>
+<h3>Lecture 1: Introduction to images and the topic</h3>
+<b>General stuff</b>
+<ol>
+<li>Can you mention some problems (general not specific on methods) that arise with the analysis of real image data?</li>
+<li>Why do you want mathematical code to perform the analysis?</li>
+<li>What is the difference between qualitative and quantitative assessments?</li>
+</ol>
+
+<b>Images</b>
+<ol>
+    <li>What is the smallest element of an image (2D/3D)</li>
+    <li>Images are discrete, what kind of sampling is done to obtain a digital image. Sampling figure (images_sampling.pdf)</li>
+    <li>You often see colored images of scalar information.
+        <ol type="a">
+            <li>Why are colors used?</li>
+            <li>What should you think about when you use a color map?</li>
+        </ol>
+    </li>
+    <li>What is a histogram?</li>
+</ol>
+
+<b>Image formation</b>
+<ol><li>Can you describe the image formation process? Source (radiation, wave, etc), sample, sample response, detection system.</li></ol>
+
+<b>Image analysis approaches</b>
+<ol><li>Can you describe the difference between reproducibility and repeatability? </li></ol>
+<h3>Lecture 2: Image enhancement</h3>
+<b>General stuff</b>
+<ol>
+<li>What factors from the image formation process affect image quality? (resolution, noise, contrast, inhomogeneous contrast, artifacts).</li>
+<li>Can you mention two common noise distributions that are used in imaging.</li>
+</ol>
+<b>Filtering</b>
+<ol>
+    <li>Can you give a general description of a filter in image processing?</li>
+    <li>Can you mention two basic characteristics of filters. How are these used.</li>
+    <li>Which filter would you use to remove outliers in the image?</li>
+    <li>How can you use a high-pass filter?</li>
+</ol>
+<b>Advanced filters</b>
+<ol>
+    <li>Why would you not like to use convolution filter for denoising?</li>
+    <li>Can you mention some advanced denoising filters?</li>
+</ol>
+<b>Evaluate filter performance</b>
+<ol>
+    <li>How do you verify the performance of a filter?</li>
+    <li>Mention two metrics used to evaluate filter performance.</li>
+</ol>
+<h3>Lecture 3: Data sets</h3>
+<b>General stuff</b>
+<ol>
+    <li>Why are well-known data sets important?</li>
+    <li>What makes a good data set? (amount, diversity, labels)</li>
+    <li>You need different data sets depending on your task, can you mention some tasks? (segmentation, regression, classification, detection)</li>
+    <li>There are different ways to build a data set, which? (Collect and manually label, simulations, pre-segmentation)</li>
+    <li>What are typical problems with data sets? (imbalance, few, homogeneous, biasing)</li>
+</ol>
+
+<b>Baseline algorithm</b>
+<ol>
+    <li>What is a baseline algorithm, when do you need it?</li>
+</ol>
+
+<h3>Lecture 4: Basic segmentation</h3>
+<b>General stuff</b>
+<ol>
+    <li>What is segmentation? Why do you do it?</li>
+    <li>How can you perform a basic segmentation?</li>
+    <li>What is a confusion matrix? What do you need to create it?</li>
+    <li>What is precision and recall?  (tp/(tp+fp) and tp/(tp+fn))</li>
+</ol>
+
+<b>Multiphase segmentation</b>
+<ol>
+    <li>How do you segment multiple classes?</li>
+    <li>What problems may arise when doing so?</li>
+</ol>
+Morphological image processing
+<ol>
+    <li>Which are the basic morphological operators? How do they work?</li>
+    <li>Which operation would you use to remove bright/dark pixels?</li>
+    <li>What is the risk with using open and close to clean up an image?</li>
+</ol>
+
+<h3>Lecture 5: Advanced segmentation</h3>
+<b>Advanced segmentation</b>
+<ol>
+    <li>Can you describe the basic principle of histogram-based segmentation?</li>
+    <li>How can you improve segmentation performance?</li>
+    <li>Can you mention an unsupervised segmentation method (e.g. KMeans), how does it work?</li>
+</ol>
+<b>Supervised segmentation</b>
+<ol>
+    <li>Describe K Nearest neighbors</li>
+    <li>How can you get more stable decisions with KNN?</li>
+    <li>How does tree-based segmentation work?</li>
+    <li>Briefly describe a how a convolutional neutral network works. (Convolution produce signals in the network, down and upsampling (pooling), output probabilities)</li>
+</ol>
+<h3>Lecture 6: Advanced shape and texture analysis</h3>
+<b>Component labelling</b>
+<ol>
+    <li>Can you tell the difference between segmentation, labelling, and classification?</li>
+    <li>Can you describe the principle of connected component labelling? When does it fail?</li>
+    <li>What can you learn about an item once it is labelled? (position, area, shape, orientation)</li>
+</ol>
+
+<h3>Lecture 7: Complex objects</h3>
+<ol>
+    <li>What is a distance map, how can it be used?</li>
+    <li>Which kind structures are usually analyzed with skeletons?</li>
+    <li>What can you learn about a structure using the skeleton?</li>
+    <li>Basic component labelling is often insufficient, what can you use instead, benefits, disadvantages? (Watershed)</li>
+</ol>
+
+<h3>Lecture 8: Dynamic experiments</h3>
+<ol>
+    <li>Which information is relevant to ask for in a dynamic experiment? (Size, shape, velocity, position, etc.)</li>
+    <li>What is tracking? How can you do it? (Nearest item, correlation)</li>
+    <li>Dynamic image data is often noisy; how can you perform denoising?</li>
+    <li>What is image registration and why is it needed?</li>
+    <li>How can you compute local deformation information? (DIC/DVC)</li>
+</ol>
+
+<h3>Lecture 9: Statistical analysis</h3>
+<ol>
+    <li>Why is a controlled experiment better than an observational experiment to show causation?</li>
+    <li>How do you define sensitivity for system parameter tuning? Why is parameter tuning important?</li>
+    <li>What is the p-value and how is it used? What do you prefer, great or small p-value?</li>
+    <li>How can you promote repeatability?</li>
+</ol>
+
+<b>Software engineering</b>
+<ol>
+    <li>What is a unit test? Why do you need it?</li>
+    <li>What are some key ideas for scientific visualization? (clear message, is it necessary?)</li>
+</ol>
+
+<h3>Lecture 10: Bimodal experiments</h3>
+<ol>
+    <li>Why use multimodal experiments?</li>
+    <li>Can you mention some modality combinations?</li>
+    <li>What is data fusion?</li>
+    <li>Mention a/some methods for multivariate segmentation?</li>
+</ol>
+
+<h3>Lecture 11: Scaling up</h3>
+<ol>
+    <li>What is parallel computing and when would you like to use it?</li>
+    <li>What is distributed computing?</li>
+    <li>What resource problems can occur in parallel and distributed computing?</li>
+    <li>What is a dead-lock?</li>
+    <li>What is queue computing.</li>
+</ol>
